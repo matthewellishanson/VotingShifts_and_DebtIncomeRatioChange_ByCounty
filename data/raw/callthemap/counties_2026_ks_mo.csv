@@ -1,0 +1,445 @@
+race_id,state,office,place_kind,fips,place,candidate_a,party_a,votes_a,candidate_b,party_b,votes_b,votes_other,total_votes,finished,count_updated_utc
+GOV-KS,KS,Governor,county,20001,Allen County,Cindy Holscher,D,1438,Ty Masterson,R,2629,0,4067,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20003,Anderson County,Cindy Holscher,D,772,Ty Masterson,R,2073,0,2845,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20005,Atchison County,Cindy Holscher,D,2038,Ty Masterson,R,3130,0,5168,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20007,Barber County,Cindy Holscher,D,322,Ty Masterson,R,1333,0,1655,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20009,Barton County,Cindy Holscher,D,2445,Ty Masterson,R,5984,0,8429,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20011,Bourbon County,Cindy Holscher,D,1319,Ty Masterson,R,3259,0,4578,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20013,Brown County,Cindy Holscher,D,1044,Ty Masterson,R,2311,0,3355,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20015,Butler County,Cindy Holscher,D,9595,Ty Masterson,R,16338,0,25933,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20017,Chase County,Cindy Holscher,D,360,Ty Masterson,R,785,0,1145,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20019,Chautauqua County,Cindy Holscher,D,215,Ty Masterson,R,894,0,1109,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20021,Cherokee County,Cindy Holscher,D,1809,Ty Masterson,R,4218,0,6027,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20023,Cheyenne County,Cindy Holscher,D,197,Ty Masterson,R,868,0,1065,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20025,Clark County,Cindy Holscher,D,163,Ty Masterson,R,584,0,747,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20027,Clay County,Cindy Holscher,D,903,Ty Masterson,R,2411,0,3314,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20029,Cloud County,Cindy Holscher,D,833,Ty Masterson,R,2314,0,3147,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20031,Coffey County,Cindy Holscher,D,914,Ty Masterson,R,2445,0,3359,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20033,Comanche County,Cindy Holscher,D,142,Ty Masterson,R,488,0,630,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20035,Cowley County,Cindy Holscher,D,3927,Ty Masterson,R,6526,0,10453,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20037,Crawford County,Cindy Holscher,D,5610,Ty Masterson,R,6578,0,12188,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20039,Decatur County,Cindy Holscher,D,200,Ty Masterson,R,889,0,1089,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20041,Dickinson County,Cindy Holscher,D,2093,Ty Masterson,R,5067,0,7160,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20043,Doniphan County,Cindy Holscher,D,588,Ty Masterson,R,1970,0,2558,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20045,Douglas County,Cindy Holscher,D,38599,Ty Masterson,R,12133,0,50732,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20047,Edwards County,Cindy Holscher,D,248,Ty Masterson,R,771,0,1019,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20049,Elk County,Cindy Holscher,D,199,Ty Masterson,R,798,0,997,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20051,Ellis County,Cindy Holscher,D,3832,Ty Masterson,R,6791,0,10623,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20053,Ellsworth County,Cindy Holscher,D,691,Ty Masterson,R,1538,0,2229,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20055,Finney County,Cindy Holscher,D,4553,Ty Masterson,R,4638,0,9191,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20057,Ford County,Cindy Holscher,D,3519,Ty Masterson,R,3664,0,7183,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20059,Franklin County,Cindy Holscher,D,3733,Ty Masterson,R,6025,0,9758,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20061,Geary County,Cindy Holscher,D,3360,Ty Masterson,R,3356,0,6716,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20063,Gove County,Cindy Holscher,D,161,Ty Masterson,R,791,0,952,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20065,Graham County,Cindy Holscher,D,234,Ty Masterson,R,778,0,1012,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20067,Grant County,Cindy Holscher,D,486,Ty Masterson,R,1158,0,1644,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20069,Gray County,Cindy Holscher,D,366,Ty Masterson,R,1281,0,1647,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20071,Greeley County,Cindy Holscher,D,100,Ty Masterson,R,340,0,440,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20073,Greenwood County,Cindy Holscher,D,567,Ty Masterson,R,1640,0,2207,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20075,Hamilton County,Cindy Holscher,D,144,Ty Masterson,R,424,0,568,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20077,Harper County,Cindy Holscher,D,445,Ty Masterson,R,1402,0,1847,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20079,Harvey County,Cindy Holscher,D,6306,Ty Masterson,R,7347,0,13653,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20081,Haskell County,Cindy Holscher,D,252,Ty Masterson,R,758,0,1010,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20083,Hodgeman County,Cindy Holscher,D,150,Ty Masterson,R,577,0,727,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20085,Jackson County,Cindy Holscher,D,1902,Ty Masterson,R,3368,0,5270,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20087,Jefferson County,Cindy Holscher,D,3008,Ty Masterson,R,4872,0,7880,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20089,Jewell County,Cindy Holscher,D,174,Ty Masterson,R,1025,0,1199,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20091,Johnson County,Cindy Holscher,D,181336,Ty Masterson,R,114092,0,295428,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20093,Kearny County,Cindy Holscher,D,237,Ty Masterson,R,793,0,1030,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20095,Kingman County,Cindy Holscher,D,822,Ty Masterson,R,2273,0,3095,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20097,Kiowa County,Cindy Holscher,D,169,Ty Masterson,R,712,0,881,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20099,Labette County,Cindy Holscher,D,2219,Ty Masterson,R,3600,0,5819,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20101,Lane County,Cindy Holscher,D,125,Ty Masterson,R,524,0,649,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20103,Leavenworth County,Cindy Holscher,D,13210,Ty Masterson,R,15076,0,28286,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20105,Lincoln County,Cindy Holscher,D,280,Ty Masterson,R,998,0,1278,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20107,Linn County,Cindy Holscher,D,846,Ty Masterson,R,2774,0,3620,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20109,Logan County,Cindy Holscher,D,205,Ty Masterson,R,898,0,1103,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20111,Lyon County,Cindy Holscher,D,5751,Ty Masterson,R,5465,0,11216,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20113,McPherson County,Cindy Holscher,D,4100,Ty Masterson,R,7382,0,11482,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20115,Marion County,Cindy Holscher,D,1476,Ty Masterson,R,3205,0,4681,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20117,Marshall County,Cindy Holscher,D,1167,Ty Masterson,R,2718,0,3885,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20119,Meade County,Cindy Holscher,D,298,Ty Masterson,R,1058,0,1356,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20121,Miami County,Cindy Holscher,D,5352,Ty Masterson,R,8690,0,14042,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20123,Mitchell County,Cindy Holscher,D,554,Ty Masterson,R,1926,0,2480,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20125,Montgomery County,Cindy Holscher,D,2971,Ty Masterson,R,6045,0,9016,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20127,Morris County,Cindy Holscher,D,819,Ty Masterson,R,1496,0,2315,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20129,Morton County,Cindy Holscher,D,141,Ty Masterson,R,620,0,761,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20131,Nemaha County,Cindy Holscher,D,901,Ty Masterson,R,3565,0,4466,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20133,Neosho County,Cindy Holscher,D,1641,Ty Masterson,R,3254,0,4895,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20135,Ness County,Cindy Holscher,D,170,Ty Masterson,R,901,0,1071,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20137,Norton County,Cindy Holscher,D,376,Ty Masterson,R,1422,0,1798,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20139,Osage County,Cindy Holscher,D,1993,Ty Masterson,R,4069,0,6062,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20141,Osborne County,Cindy Holscher,D,262,Ty Masterson,R,1031,0,1293,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20143,Ottawa County,Cindy Holscher,D,512,Ty Masterson,R,1922,0,2434,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20145,Pawnee County,Cindy Holscher,D,624,Ty Masterson,R,1423,0,2047,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20147,Phillips County,Cindy Holscher,D,327,Ty Masterson,R,1644,0,1971,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20149,Pottawatomie County,Cindy Holscher,D,3583,Ty Masterson,R,7215,0,10798,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20151,Pratt County,Cindy Holscher,D,1043,Ty Masterson,R,2237,0,3280,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20153,Rawlins County,Cindy Holscher,D,211,Ty Masterson,R,862,0,1073,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20155,Reno County,Cindy Holscher,D,8645,Ty Masterson,R,12999,0,21644,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20157,Republic County,Cindy Holscher,D,430,Ty Masterson,R,1500,0,1930,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20159,Rice County,Cindy Holscher,D,928,Ty Masterson,R,2287,0,3215,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20161,Riley County,Cindy Holscher,D,11710,Ty Masterson,R,8236,0,19946,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20163,Rooks County,Cindy Holscher,D,396,Ty Masterson,R,1535,0,1931,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20165,Rush County,Cindy Holscher,D,314,Ty Masterson,R,973,0,1287,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20167,Russell County,Cindy Holscher,D,630,Ty Masterson,R,1905,0,2535,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20169,Saline County,Cindy Holscher,D,8028,Ty Masterson,R,11492,0,19520,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20171,Scott County,Cindy Holscher,D,340,Ty Masterson,R,1309,0,1649,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20173,Sedgwick County,Cindy Holscher,D,95071,Ty Masterson,R,86608,0,181679,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20175,Seward County,Cindy Holscher,D,2274,Ty Masterson,R,1900,0,4174,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20177,Shawnee County,Cindy Holscher,D,39734,Ty Masterson,R,29866,0,69600,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20179,Sheridan County,Cindy Holscher,D,133,Ty Masterson,R,928,0,1061,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20181,Sherman County,Cindy Holscher,D,397,Ty Masterson,R,1496,0,1893,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20183,Smith County,Cindy Holscher,D,297,Ty Masterson,R,1222,0,1519,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20185,Stafford County,Cindy Holscher,D,376,Ty Masterson,R,1131,0,1507,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20187,Stanton County,Cindy Holscher,D,121,Ty Masterson,R,403,0,524,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20189,Stevens County,Cindy Holscher,D,290,Ty Masterson,R,1068,0,1358,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20191,Sumner County,Cindy Holscher,D,2706,Ty Masterson,R,5377,0,8083,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20193,Thomas County,Cindy Holscher,D,666,Ty Masterson,R,2168,0,2834,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20195,Trego County,Cindy Holscher,D,274,Ty Masterson,R,1073,0,1347,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20197,Wabaunsee County,Cindy Holscher,D,1004,Ty Masterson,R,2242,0,3246,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20199,Wallace County,Cindy Holscher,D,69,Ty Masterson,R,523,0,592,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20201,Washington County,Cindy Holscher,D,391,Ty Masterson,R,1768,0,2159,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20203,Wichita County,Cindy Holscher,D,127,Ty Masterson,R,565,0,692,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20205,Wilson County,Cindy Holscher,D,660,Ty Masterson,R,2104,0,2764,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20207,Woodson County,Cindy Holscher,D,278,Ty Masterson,R,835,0,1113,no,2026-11-16T01:56:18Z
+GOV-KS,KS,Governor,county,20209,Wyandotte County,Cindy Holscher,D,31277,Ty Masterson,R,11627,0,42904,no,2026-11-16T01:56:18Z
+KS-01,KS,House,county part,20009,Barton County,Lauren Reinhold,D,1935,Tracey Mann,R,6291,202,8428,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20023,Cheyenne County,Lauren Reinhold,D,155,Tracey Mann,R,893,28,1076,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20025,Clark County,Lauren Reinhold,D,119,Tracey Mann,R,607,23,749,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20027,Clay County,Lauren Reinhold,D,707,Tracey Mann,R,2501,102,3310,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20029,Cloud County,Lauren Reinhold,D,697,Tracey Mann,R,2353,96,3146,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20039,Decatur County,Lauren Reinhold,D,160,Tracey Mann,R,916,19,1095,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20041,Dickinson County,Lauren Reinhold,D,1680,Tracey Mann,R,5291,208,7179,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20045,Douglas County,Lauren Reinhold,D,31393,Tracey Mann,R,7070,1055,39518,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20051,Ellis County,Lauren Reinhold,D,3174,Tracey Mann,R,7177,265,10616,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20053,Ellsworth County,Lauren Reinhold,D,522,Tracey Mann,R,1659,68,2249,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20055,Finney County,Lauren Reinhold,D,4135,Tracey Mann,R,4772,275,9182,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20057,Ford County,Lauren Reinhold,D,3215,Tracey Mann,R,3787,184,7186,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20063,Gove County,Lauren Reinhold,D,119,Tracey Mann,R,819,21,959,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20065,Graham County,Lauren Reinhold,D,165,Tracey Mann,R,805,40,1010,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20067,Grant County,Lauren Reinhold,D,397,Tracey Mann,R,1190,59,1646,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20069,Gray County,Lauren Reinhold,D,301,Tracey Mann,R,1292,53,1646,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20071,Greeley County,Lauren Reinhold,D,65,Tracey Mann,R,366,12,443,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20075,Hamilton County,Lauren Reinhold,D,114,Tracey Mann,R,442,17,573,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20081,Haskell County,Lauren Reinhold,D,214,Tracey Mann,R,751,28,993,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20083,Hodgeman County,Lauren Reinhold,D,105,Tracey Mann,R,605,21,731,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20085,Jackson County,Lauren Reinhold,D,1537,Tracey Mann,R,3169,234,4940,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20087,Jefferson County,Lauren Reinhold,D,2683,Tracey Mann,R,4931,260,7874,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20089,Jewell County,Lauren Reinhold,D,134,Tracey Mann,R,1038,31,1203,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20093,Kearny County,Lauren Reinhold,D,194,Tracey Mann,R,818,21,1033,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20101,Lane County,Lauren Reinhold,D,89,Tracey Mann,R,564,21,674,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20105,Lincoln County,Lauren Reinhold,D,195,Tracey Mann,R,1058,28,1281,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20109,Logan County,Lauren Reinhold,D,154,Tracey Mann,R,938,23,1115,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20113,McPherson County,Lauren Reinhold,D,3474,Tracey Mann,R,7754,260,11488,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20117,Marshall County,Lauren Reinhold,D,968,Tracey Mann,R,2825,109,3902,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20119,Meade County,Lauren Reinhold,D,239,Tracey Mann,R,1078,42,1359,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20123,Mitchell County,Lauren Reinhold,D,397,Tracey Mann,R,2033,43,2473,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20129,Morton County,Lauren Reinhold,D,111,Tracey Mann,R,623,23,757,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20135,Ness County,Lauren Reinhold,D,126,Tracey Mann,R,939,15,1080,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20137,Norton County,Lauren Reinhold,D,289,Tracey Mann,R,1472,36,1797,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20141,Osborne County,Lauren Reinhold,D,182,Tracey Mann,R,1073,42,1297,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20143,Ottawa County,Lauren Reinhold,D,379,Tracey Mann,R,1994,66,2439,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20145,Pawnee County,Lauren Reinhold,D,228,Tracey Mann,R,756,32,1016,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20147,Phillips County,Lauren Reinhold,D,223,Tracey Mann,R,1706,45,1974,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20149,Pottawatomie County,Lauren Reinhold,D,3011,Tracey Mann,R,7496,319,10826,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20153,Rawlins County,Lauren Reinhold,D,160,Tracey Mann,R,895,24,1079,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20155,Reno County,Lauren Reinhold,D,7502,Tracey Mann,R,13498,626,21626,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20157,Republic County,Lauren Reinhold,D,341,Tracey Mann,R,1555,49,1945,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20159,Rice County,Lauren Reinhold,D,749,Tracey Mann,R,2413,90,3252,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20161,Riley County,Lauren Reinhold,D,10758,Tracey Mann,R,8697,497,19952,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20163,Rooks County,Lauren Reinhold,D,295,Tracey Mann,R,1581,48,1924,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20165,Rush County,Lauren Reinhold,D,229,Tracey Mann,R,1032,31,1292,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20167,Russell County,Lauren Reinhold,D,489,Tracey Mann,R,1978,84,2551,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20169,Saline County,Lauren Reinhold,D,6869,Tracey Mann,R,12161,528,19558,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20171,Scott County,Lauren Reinhold,D,252,Tracey Mann,R,1356,47,1655,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20175,Seward County,Lauren Reinhold,D,2114,Tracey Mann,R,1949,104,4167,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20179,Sheridan County,Lauren Reinhold,D,110,Tracey Mann,R,960,16,1086,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20181,Sherman County,Lauren Reinhold,D,310,Tracey Mann,R,1556,42,1908,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20183,Smith County,Lauren Reinhold,D,235,Tracey Mann,R,1255,33,1523,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20187,Stanton County,Lauren Reinhold,D,107,Tracey Mann,R,407,13,527,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20189,Stevens County,Lauren Reinhold,D,249,Tracey Mann,R,1064,47,1360,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20193,Thomas County,Lauren Reinhold,D,526,Tracey Mann,R,2264,55,2845,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20195,Trego County,Lauren Reinhold,D,184,Tracey Mann,R,1141,32,1357,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20199,Wallace County,Lauren Reinhold,D,45,Tracey Mann,R,552,6,603,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20201,Washington County,Lauren Reinhold,D,294,Tracey Mann,R,1811,46,2151,no,2026-11-16T01:56:17Z
+KS-01,KS,House,county part,20203,Wichita County,Lauren Reinhold,D,108,Tracey Mann,R,567,19,694,no,2026-11-16T01:56:17Z
+KS-02,KS,House,county part,20001,Allen County,Don Coover,D,1401,Derek Schmidt,R,2576,123,4100,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20005,Atchison County,Don Coover,D,1874,Derek Schmidt,R,3098,193,5165,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20011,Bourbon County,Don Coover,D,1298,Derek Schmidt,R,3131,142,4571,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20013,Brown County,Don Coover,D,955,Derek Schmidt,R,2299,131,3385,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20017,Chase County,Don Coover,D,309,Derek Schmidt,R,811,30,1150,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20021,Cherokee County,Don Coover,D,1811,Derek Schmidt,R,4083,157,6051,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20031,Coffey County,Don Coover,D,800,Derek Schmidt,R,2473,102,3375,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20037,Crawford County,Don Coover,D,5668,Derek Schmidt,R,6312,257,12237,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20043,Doniphan County,Don Coover,D,511,Derek Schmidt,R,1972,85,2568,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20045,Douglas County,Don Coover,D,5450,Derek Schmidt,R,5220,375,11045,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20061,Geary County,Don Coover,D,3015,Derek Schmidt,R,3336,369,6720,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20085,Jackson County,Don Coover,D,77,Derek Schmidt,R,211,13,301,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20099,Labette County,Don Coover,D,2278,Derek Schmidt,R,3450,112,5840,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20103,Leavenworth County,Don Coover,D,12176,Derek Schmidt,R,14887,1208,28271,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20107,Linn County,Don Coover,D,754,Derek Schmidt,R,2765,107,3626,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20111,Lyon County,Don Coover,D,5067,Derek Schmidt,R,5667,470,11204,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20115,Marion County,Don Coover,D,1167,Derek Schmidt,R,3397,141,4705,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20125,Montgomery County,Don Coover,D,2602,Derek Schmidt,R,6207,227,9036,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20127,Morris County,Don Coover,D,691,Derek Schmidt,R,1553,93,2337,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20131,Nemaha County,Don Coover,D,748,Derek Schmidt,R,3631,126,4505,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20133,Neosho County,Don Coover,D,1951,Derek Schmidt,R,2896,87,4934,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20139,Osage County,Don Coover,D,1797,Derek Schmidt,R,4034,257,6088,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20177,Shawnee County,Don Coover,D,36388,Derek Schmidt,R,30202,3254,69844,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20197,Wabaunsee County,Don Coover,D,891,Derek Schmidt,R,2278,89,3258,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20205,Wilson County,Don Coover,D,681,Derek Schmidt,R,2057,61,2799,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20207,Woodson County,Don Coover,D,252,Derek Schmidt,R,836,30,1118,no,2026-11-16T01:56:18Z
+KS-02,KS,House,county part,20209,Wyandotte County,Don Coover,D,20065,Derek Schmidt,R,6461,962,27488,no,2026-11-16T01:56:18Z
+KS-03,KS,House,county part,20003,Anderson County,Sharice Davids,D,750,Eric Jenkins,R,2036,72,2858,no,2026-11-16T01:56:18Z
+KS-03,KS,House,county part,20059,Franklin County,Sharice Davids,D,3817,Eric Jenkins,R,5733,239,9789,no,2026-11-16T01:56:18Z
+KS-03,KS,House,county part,20091,Johnson County,Sharice Davids,D,180732,Eric Jenkins,R,108829,5895,295456,no,2026-11-16T01:56:18Z
+KS-03,KS,House,county part,20121,Miami County,Sharice Davids,D,5402,Eric Jenkins,R,8360,331,14093,no,2026-11-16T01:56:18Z
+KS-03,KS,House,county part,20209,Wyandotte County,Sharice Davids,D,10349,Eric Jenkins,R,4579,385,15313,no,2026-11-16T01:56:18Z
+KS-04,KS,House,county part,20007,Barber County,Katy Tyndell,D,248,Ron Estes,R,1367,54,1669,no,2026-11-16T01:56:18Z
+KS-04,KS,House,county part,20015,Butler County,Katy Tyndell,D,8646,Ron Estes,R,16694,721,26061,no,2026-11-16T01:56:18Z
+KS-04,KS,House,county part,20019,Chautauqua County,Katy Tyndell,D,180,Ron Estes,R,909,21,1110,no,2026-11-16T01:56:18Z
+KS-04,KS,House,county part,20033,Comanche County,Katy Tyndell,D,106,Ron Estes,R,507,18,631,no,2026-11-16T01:56:18Z
+KS-04,KS,House,county part,20035,Cowley County,Katy Tyndell,D,3657,Ron Estes,R,6574,249,10480,no,2026-11-16T01:56:18Z
+KS-04,KS,House,county part,20047,Edwards County,Katy Tyndell,D,195,Ron Estes,R,809,18,1022,no,2026-11-16T01:56:18Z
+KS-04,KS,House,county part,20049,Elk County,Katy Tyndell,D,168,Ron Estes,R,821,33,1022,no,2026-11-16T01:56:18Z
+KS-04,KS,House,county part,20073,Greenwood County,Katy Tyndell,D,469,Ron Estes,R,1689,55,2213,no,2026-11-16T01:56:18Z
+KS-04,KS,House,county part,20077,Harper County,Katy Tyndell,D,371,Ron Estes,R,1462,32,1865,no,2026-11-16T01:56:18Z
+KS-04,KS,House,county part,20079,Harvey County,Katy Tyndell,D,5762,Ron Estes,R,7640,298,13700,no,2026-11-16T01:56:18Z
+KS-04,KS,House,county part,20095,Kingman County,Katy Tyndell,D,719,Ron Estes,R,2344,58,3121,no,2026-11-16T01:56:18Z
+KS-04,KS,House,county part,20097,Kiowa County,Katy Tyndell,D,132,Ron Estes,R,732,18,882,no,2026-11-16T01:56:18Z
+KS-04,KS,House,county part,20145,Pawnee County,Katy Tyndell,D,265,Ron Estes,R,752,26,1043,no,2026-11-16T01:56:18Z
+KS-04,KS,House,county part,20151,Pratt County,Katy Tyndell,D,905,Ron Estes,R,2298,92,3295,no,2026-11-16T01:56:18Z
+KS-04,KS,House,county part,20173,Sedgwick County,Katy Tyndell,D,90031,Ron Estes,R,87904,4220,182155,no,2026-11-16T01:56:18Z
+KS-04,KS,House,county part,20185,Stafford County,Katy Tyndell,D,306,Ron Estes,R,1164,34,1504,no,2026-11-16T01:56:18Z
+KS-04,KS,House,county part,20191,Sumner County,Katy Tyndell,D,2408,Ron Estes,R,5489,240,8137,no,2026-11-16T01:56:18Z
+MO-01,MO,House,county part,29189,St. Louis County,Wesley Bell,D,118566,Paul Berry,R,23671,5489,147726,no,2026-11-16T01:54:47Z
+MO-01,MO,House,county part,29510,St. Louis city,Wesley Bell,D,70609,Paul Berry,R,8691,5124,84424,no,2026-11-16T01:54:47Z
+MO-02,MO,House,county part,29071,Franklin County,Fred Wellman,D,12986,Ann Wagner,R,23844,1821,38651,no,2026-11-17T23:54:18Z
+MO-02,MO,House,county part,29183,St. Charles County,Fred Wellman,D,19099,Ann Wagner,R,23250,1218,43567,no,2026-11-17T23:54:18Z
+MO-02,MO,House,county part,29189,St. Louis County,Fred Wellman,D,134506,Ann Wagner,R,100128,5359,239993,no,2026-11-17T23:54:18Z
+MO-02,MO,House,county part,29219,Warren County,Fred Wellman,D,2932,Ann Wagner,R,5949,386,9267,no,2026-11-17T23:54:18Z
+MO-03,MO,House,county part,29019,Boone County,Bethany Mann,D,25235,Bob Onder,R,13045,946,39226,no,2026-11-17T23:54:18Z
+MO-03,MO,House,county part,29027,Callaway County,Bethany Mann,D,5081,Bob Onder,R,8488,506,14075,no,2026-11-17T23:54:18Z
+MO-03,MO,House,county part,29029,Camden County,Bethany Mann,D,1409,Bob Onder,R,3108,103,4620,no,2026-11-17T23:54:18Z
+MO-03,MO,House,county part,29051,Cole County,Bethany Mann,D,11069,Bob Onder,R,16205,977,28251,no,2026-11-17T23:54:18Z
+MO-03,MO,House,county part,29053,Cooper County,Bethany Mann,D,1942,Bob Onder,R,3633,184,5759,no,2026-11-17T23:54:18Z
+MO-03,MO,House,county part,29055,Crawford County,Bethany Mann,D,1676,Bob Onder,R,4722,189,6587,no,2026-11-17T23:54:18Z
+MO-03,MO,House,county part,29073,Gasconade County,Bethany Mann,D,1260,Bob Onder,R,3727,117,5104,no,2026-11-17T23:54:18Z
+MO-03,MO,House,county part,29099,Jefferson County,Bethany Mann,D,9369,Bob Onder,R,13960,676,24005,no,2026-11-17T23:54:18Z
+MO-03,MO,House,county part,29125,Maries County,Bethany Mann,D,613,Bob Onder,R,2402,78,3093,no,2026-11-17T23:54:18Z
+MO-03,MO,House,county part,29131,Miller County,Bethany Mann,D,1687,Bob Onder,R,5677,263,7627,no,2026-11-17T23:54:18Z
+MO-03,MO,House,county part,29135,Moniteau County,Bethany Mann,D,1092,Bob Onder,R,3212,175,4479,no,2026-11-17T23:54:18Z
+MO-03,MO,House,county part,29139,Montgomery County,Bethany Mann,D,957,Bob Onder,R,2631,128,3716,no,2026-11-17T23:54:18Z
+MO-03,MO,House,county part,29151,Osage County,Bethany Mann,D,968,Bob Onder,R,3937,129,5034,no,2026-11-17T23:54:18Z
+MO-03,MO,House,county part,29183,St. Charles County,Bethany Mann,D,60084,Bob Onder,R,57837,2933,120854,no,2026-11-17T23:54:18Z
+MO-03,MO,House,county part,29219,Warren County,Bethany Mann,D,1444,Bob Onder,R,2631,134,4209,no,2026-11-17T23:54:18Z
+MO-03,MO,House,county part,29221,Washington County,Bethany Mann,D,1547,Bob Onder,R,4157,170,5874,no,2026-11-17T23:54:18Z
+MO-04,MO,House,county part,29011,Barton County,Jordan Herrera,D,580,Mark Alford,R,3020,136,3736,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29013,Bates County,Jordan Herrera,D,1375,Mark Alford,R,3773,176,5324,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29015,Benton County,Jordan Herrera,D,1738,Mark Alford,R,5085,204,7027,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29019,Boone County,Jordan Herrera,D,15905,Mark Alford,R,9503,725,26133,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29029,Camden County,Jordan Herrera,D,3206,Mark Alford,R,8853,361,12420,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29037,Cass County,Jordan Herrera,D,17279,Mark Alford,R,23214,1055,41548,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29039,Cedar County,Jordan Herrera,D,860,Mark Alford,R,3496,105,4461,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29057,Dade County,Jordan Herrera,D,534,Mark Alford,R,2106,79,2719,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29059,Dallas County,Jordan Herrera,D,1133,Mark Alford,R,3857,177,5167,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29083,Henry County,Jordan Herrera,D,2020,Mark Alford,R,4951,240,7211,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29085,Hickory County,Jordan Herrera,D,743,Mark Alford,R,2578,106,3427,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29089,Howard County,Jordan Herrera,D,1160,Mark Alford,R,2054,140,3354,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29095,Jackson County,Jordan Herrera,D,13872,Mark Alford,R,14910,781,29563,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29101,Johnson County,Jordan Herrera,D,5876,Mark Alford,R,9587,444,15907,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29105,Laclede County,Jordan Herrera,D,2155,Mark Alford,R,8261,279,10695,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29107,Lafayette County,Jordan Herrera,D,3705,Mark Alford,R,7644,282,11631,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29141,Morgan County,Jordan Herrera,D,1497,Mark Alford,R,4532,229,6258,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29159,Pettis County,Jordan Herrera,D,3823,Mark Alford,R,7660,346,11829,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29167,Polk County,Jordan Herrera,D,2497,Mark Alford,R,7863,405,10765,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29169,Pulaski County,Jordan Herrera,D,2825,Mark Alford,R,5992,348,9165,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29185,St. Clair County,Jordan Herrera,D,769,Mark Alford,R,2429,100,3298,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29195,Saline County,Jordan Herrera,D,2291,Mark Alford,R,3464,153,5908,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29217,Vernon County,Jordan Herrera,D,1421,Mark Alford,R,3808,156,5385,no,2026-11-16T01:54:48Z
+MO-04,MO,House,county part,29225,Webster County,Jordan Herrera,D,1932,Mark Alford,R,5616,263,7811,no,2026-11-16T01:54:48Z
+MO-05,MO,House,county part,29047,Clay County,Emanuel Cleaver,D,31737,Rick Brattin,R,17687,1427,50851,no,2026-11-16T01:54:48Z
+MO-05,MO,House,county part,29095,Jackson County,Emanuel Cleaver,D,147519,Rick Brattin,R,54885,4701,207105,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29001,Adair County,Josh Smead,D,2719,Chris Stigall,R,3631,135,6485,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29003,Andrew County,Josh Smead,D,2065,Chris Stigall,R,4394,143,6602,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29005,Atchison County,Josh Smead,D,386,Chris Stigall,R,1141,45,1572,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29007,Audrain County,Josh Smead,D,2056,Chris Stigall,R,4062,154,6272,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29021,Buchanan County,Josh Smead,D,10765,Chris Stigall,R,12829,593,24187,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29025,Caldwell County,Josh Smead,D,802,Chris Stigall,R,2174,75,3051,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29033,Carroll County,Josh Smead,D,685,Chris Stigall,R,2164,49,2898,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29041,Chariton County,Josh Smead,D,780,Chris Stigall,R,1695,52,2527,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29045,Clark County,Josh Smead,D,482,Chris Stigall,R,1359,43,1884,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29047,Clay County,Josh Smead,D,22071,Chris Stigall,R,22300,1068,45439,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29049,Clinton County,Josh Smead,D,2597,Chris Stigall,R,4740,202,7539,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29061,Daviess County,Josh Smead,D,682,Chris Stigall,R,1701,62,2445,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29063,DeKalb County,Josh Smead,D,815,Chris Stigall,R,2143,93,3051,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29075,Gentry County,Josh Smead,D,593,Chris Stigall,R,1439,44,2076,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29079,Grundy County,Josh Smead,D,699,Chris Stigall,R,2087,66,2852,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29081,Harrison County,Josh Smead,D,502,Chris Stigall,R,1876,39,2417,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29087,Holt County,Josh Smead,D,358,Chris Stigall,R,1114,24,1496,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29095,Jackson County,Josh Smead,D,1731,Chris Stigall,R,2630,119,4480,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29103,Knox County,Josh Smead,D,252,Chris Stigall,R,821,11,1084,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29111,Lewis County,Josh Smead,D,682,Chris Stigall,R,1968,57,2707,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29113,Lincoln County,Josh Smead,D,5981,Chris Stigall,R,13407,534,19922,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29115,Linn County,Josh Smead,D,1151,Chris Stigall,R,2323,63,3537,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29117,Livingston County,Josh Smead,D,1254,Chris Stigall,R,2973,67,4294,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29121,Macon County,Josh Smead,D,1215,Chris Stigall,R,3583,89,4887,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29127,Marion County,Josh Smead,D,2313,Chris Stigall,R,5586,167,8066,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29129,Mercer County,Josh Smead,D,201,Chris Stigall,R,891,19,1111,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29137,Monroe County,Josh Smead,D,716,Chris Stigall,R,1879,54,2649,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29147,Nodaway County,Josh Smead,D,2385,Chris Stigall,R,4072,144,6601,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29163,Pike County,Josh Smead,D,1315,Chris Stigall,R,3333,88,4736,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29165,Platte County,Josh Smead,D,24314,Chris Stigall,R,18969,1090,44373,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29171,Putnam County,Josh Smead,D,294,Chris Stigall,R,1051,18,1363,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29173,Ralls County,Josh Smead,D,1054,Chris Stigall,R,2808,74,3936,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29175,Randolph County,Josh Smead,D,2158,Chris Stigall,R,4473,172,6803,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29177,Ray County,Josh Smead,D,2666,Chris Stigall,R,4838,257,7761,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29197,Schuyler County,Josh Smead,D,284,Chris Stigall,R,863,29,1176,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29199,Scotland County,Josh Smead,D,411,Chris Stigall,R,837,20,1268,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29205,Shelby County,Josh Smead,D,466,Chris Stigall,R,1495,30,1991,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29211,Sullivan County,Josh Smead,D,375,Chris Stigall,R,1174,26,1575,no,2026-11-16T01:54:48Z
+MO-06,MO,House,county part,29227,Worth County,Josh Smead,D,185,Chris Stigall,R,551,16,752,no,2026-11-16T01:54:48Z
+MO-07,MO,House,county part,29009,Barry County,Missi Hesketh,D,2530,Eric Burlison,R,7625,267,10422,no,2026-11-16T01:54:48Z
+MO-07,MO,House,county part,29043,Christian County,Missi Hesketh,D,10307,Eric Burlison,R,23419,883,34609,no,2026-11-16T01:54:48Z
+MO-07,MO,House,county part,29077,Greene County,Missi Hesketh,D,48753,Eric Burlison,R,53306,2493,104552,no,2026-11-16T01:54:48Z
+MO-07,MO,House,county part,29097,Jasper County,Missi Hesketh,D,11338,Eric Burlison,R,21184,817,33339,no,2026-11-16T01:54:48Z
+MO-07,MO,House,county part,29109,Lawrence County,Missi Hesketh,D,2778,Eric Burlison,R,8563,324,11665,no,2026-11-16T01:54:48Z
+MO-07,MO,House,county part,29119,McDonald County,Missi Hesketh,D,1247,Eric Burlison,R,4449,143,5839,no,2026-11-16T01:54:48Z
+MO-07,MO,House,county part,29145,Newton County,Missi Hesketh,D,4857,Eric Burlison,R,13231,412,18500,no,2026-11-16T01:54:48Z
+MO-07,MO,House,county part,29209,Stone County,Missi Hesketh,D,2854,Eric Burlison,R,10006,267,13127,no,2026-11-16T01:54:48Z
+MO-07,MO,House,county part,29213,Taney County,Missi Hesketh,D,4375,Eric Burlison,R,12793,368,17536,no,2026-11-16T01:54:48Z
+MO-07,MO,House,county part,29225,Webster County,Missi Hesketh,D,1147,Eric Burlison,R,3837,167,5151,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29017,Bollinger County,Christopher Reichard,D,551,Jason Smith,R,2884,85,3520,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29023,Butler County,Christopher Reichard,D,2352,Jason Smith,R,7575,260,10187,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29031,Cape Girardeau County,Christopher Reichard,D,8378,Jason Smith,R,18117,988,27483,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29035,Carter County,Christopher Reichard,D,307,Jason Smith,R,1514,36,1857,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29065,Dent County,Christopher Reichard,D,932,Jason Smith,R,3518,169,4619,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29067,Douglas County,Christopher Reichard,D,766,Jason Smith,R,3866,130,4762,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29069,Dunklin County,Christopher Reichard,D,1364,Jason Smith,R,3627,118,5109,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29091,Howell County,Christopher Reichard,D,2322,Jason Smith,R,8385,313,11020,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29093,Iron County,Christopher Reichard,D,659,Jason Smith,R,1809,75,2543,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29099,Jefferson County,Christopher Reichard,D,21887,Jason Smith,R,29243,1882,53012,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29123,Madison County,Christopher Reichard,D,794,Jason Smith,R,2414,101,3309,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29133,Mississippi County,Christopher Reichard,D,719,Jason Smith,R,2199,128,3046,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29143,New Madrid County,Christopher Reichard,D,986,Jason Smith,R,2531,145,3662,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29149,Oregon County,Christopher Reichard,D,571,Jason Smith,R,2224,58,2853,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29153,Ozark County,Christopher Reichard,D,555,Jason Smith,R,2439,72,3066,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29155,Pemiscot County,Christopher Reichard,D,903,Jason Smith,R,1894,55,2852,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29157,Perry County,Christopher Reichard,D,1289,Jason Smith,R,4252,136,5677,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29161,Phelps County,Christopher Reichard,D,4487,Jason Smith,R,7813,420,12720,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29179,Reynolds County,Christopher Reichard,D,369,Jason Smith,R,1394,48,1811,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29181,Ripley County,Christopher Reichard,D,597,Jason Smith,R,2484,94,3175,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29186,Ste. Genevieve County,Christopher Reichard,D,2069,Jason Smith,R,3831,138,6038,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29187,St. Francois County,Christopher Reichard,D,5549,Jason Smith,R,10391,512,16452,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29201,Scott County,Christopher Reichard,D,2646,Jason Smith,R,7073,321,10040,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29203,Shannon County,Christopher Reichard,D,516,Jason Smith,R,1886,71,2473,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29207,Stoddard County,Christopher Reichard,D,1444,Jason Smith,R,5952,219,7615,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29215,Texas County,Christopher Reichard,D,1371,Jason Smith,R,5831,214,7416,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29223,Wayne County,Christopher Reichard,D,575,Jason Smith,R,2762,80,3417,no,2026-11-16T01:54:48Z
+MO-08,MO,House,county part,29229,Wright County,Christopher Reichard,D,796,Jason Smith,R,4777,129,5702,no,2026-11-16T01:54:48Z
+SEN-KS,KS,Senate,county,20001,Allen County,Adam Hamilton,D,1451,Roger Marshall,R,2388,248,4087,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20003,Anderson County,Adam Hamilton,D,771,Roger Marshall,R,1964,123,2858,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20005,Atchison County,Adam Hamilton,D,2113,Roger Marshall,R,2836,227,5176,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20007,Barber County,Adam Hamilton,D,300,Roger Marshall,R,1294,78,1672,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20009,Barton County,Adam Hamilton,D,2480,Roger Marshall,R,5707,276,8463,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20011,Bourbon County,Adam Hamilton,D,1382,Roger Marshall,R,2971,220,4573,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20013,Brown County,Adam Hamilton,D,1093,Roger Marshall,R,2100,180,3373,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20015,Butler County,Adam Hamilton,D,9533,Roger Marshall,R,15651,869,26053,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20017,Chase County,Adam Hamilton,D,365,Roger Marshall,R,753,35,1153,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20019,Chautauqua County,Adam Hamilton,D,199,Roger Marshall,R,869,41,1109,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20021,Cherokee County,Adam Hamilton,D,1865,Roger Marshall,R,3858,331,6054,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20023,Cheyenne County,Adam Hamilton,D,220,Roger Marshall,R,793,51,1064,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20025,Clark County,Adam Hamilton,D,153,Roger Marshall,R,562,37,752,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20027,Clay County,Adam Hamilton,D,910,Roger Marshall,R,2238,161,3309,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20029,Cloud County,Adam Hamilton,D,846,Roger Marshall,R,2171,140,3157,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20031,Coffey County,Adam Hamilton,D,935,Roger Marshall,R,2277,164,3376,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20033,Comanche County,Adam Hamilton,D,149,Roger Marshall,R,446,33,628,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20035,Cowley County,Adam Hamilton,D,3956,Roger Marshall,R,6068,423,10447,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20037,Crawford County,Adam Hamilton,D,5736,Roger Marshall,R,5897,580,12213,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20039,Decatur County,Adam Hamilton,D,208,Roger Marshall,R,831,57,1096,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20041,Dickinson County,Adam Hamilton,D,2117,Roger Marshall,R,4777,307,7201,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20043,Doniphan County,Adam Hamilton,D,610,Roger Marshall,R,1839,113,2562,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20045,Douglas County,Adam Hamilton,D,38854,Roger Marshall,R,10985,1087,50926,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20047,Edwards County,Adam Hamilton,D,218,Roger Marshall,R,756,43,1017,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20049,Elk County,Adam Hamilton,D,184,Roger Marshall,R,778,49,1011,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20051,Ellis County,Adam Hamilton,D,3850,Roger Marshall,R,6475,320,10645,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20053,Ellsworth County,Adam Hamilton,D,702,Roger Marshall,R,1459,83,2244,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20055,Finney County,Adam Hamilton,D,4585,Roger Marshall,R,4352,297,9234,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20057,Ford County,Adam Hamilton,D,3520,Roger Marshall,R,3443,235,7198,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20059,Franklin County,Adam Hamilton,D,3799,Roger Marshall,R,5550,438,9787,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20061,Geary County,Adam Hamilton,D,3384,Roger Marshall,R,3012,356,6752,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20063,Gove County,Adam Hamilton,D,161,Roger Marshall,R,752,36,949,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20065,Graham County,Adam Hamilton,D,230,Roger Marshall,R,727,57,1014,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20067,Grant County,Adam Hamilton,D,498,Roger Marshall,R,1066,53,1617,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20069,Gray County,Adam Hamilton,D,372,Roger Marshall,R,1204,71,1647,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20071,Greeley County,Adam Hamilton,D,110,Roger Marshall,R,314,20,444,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20073,Greenwood County,Adam Hamilton,D,562,Roger Marshall,R,1564,91,2217,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20075,Hamilton County,Adam Hamilton,D,133,Roger Marshall,R,413,29,575,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20077,Harper County,Adam Hamilton,D,447,Roger Marshall,R,1328,66,1841,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20079,Harvey County,Adam Hamilton,D,6413,Roger Marshall,R,6950,374,13737,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20081,Haskell County,Adam Hamilton,D,266,Roger Marshall,R,700,31,997,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20083,Hodgeman County,Adam Hamilton,D,145,Roger Marshall,R,564,22,731,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20085,Jackson County,Adam Hamilton,D,1903,Roger Marshall,R,3074,287,5264,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20087,Jefferson County,Adam Hamilton,D,3070,Roger Marshall,R,4516,326,7912,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20089,Jewell County,Adam Hamilton,D,187,Roger Marshall,R,960,53,1200,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20091,Johnson County,Adam Hamilton,D,187261,Roger Marshall,R,104124,5666,297051,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20093,Kearny County,Adam Hamilton,D,229,Roger Marshall,R,767,29,1025,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20095,Kingman County,Adam Hamilton,D,820,Roger Marshall,R,2205,92,3117,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20097,Kiowa County,Adam Hamilton,D,167,Roger Marshall,R,674,43,884,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20099,Labette County,Adam Hamilton,D,2234,Roger Marshall,R,3345,260,5839,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20101,Lane County,Adam Hamilton,D,131,Roger Marshall,R,508,31,670,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20103,Leavenworth County,Adam Hamilton,D,13494,Roger Marshall,R,13749,1117,28360,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20105,Lincoln County,Adam Hamilton,D,271,Roger Marshall,R,978,40,1289,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20107,Linn County,Adam Hamilton,D,879,Roger Marshall,R,2602,150,3631,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20109,Logan County,Adam Hamilton,D,213,Roger Marshall,R,834,49,1096,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20111,Lyon County,Adam Hamilton,D,5841,Roger Marshall,R,4925,543,11309,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20113,McPherson County,Adam Hamilton,D,4132,Roger Marshall,R,7084,329,11545,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20115,Marion County,Adam Hamilton,D,1453,Roger Marshall,R,3098,156,4707,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20117,Marshall County,Adam Hamilton,D,1256,Roger Marshall,R,2467,169,3892,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20119,Meade County,Adam Hamilton,D,299,Roger Marshall,R,1005,51,1355,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20121,Miami County,Adam Hamilton,D,5488,Roger Marshall,R,8167,457,14112,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20123,Mitchell County,Adam Hamilton,D,540,Roger Marshall,R,1858,71,2469,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20125,Montgomery County,Adam Hamilton,D,2902,Roger Marshall,R,5722,400,9024,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20127,Morris County,Adam Hamilton,D,823,Roger Marshall,R,1366,135,2324,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20129,Morton County,Adam Hamilton,D,144,Roger Marshall,R,565,29,738,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20131,Nemaha County,Adam Hamilton,D,927,Roger Marshall,R,3376,191,4494,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20133,Neosho County,Adam Hamilton,D,1679,Roger Marshall,R,2958,279,4916,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20135,Ness County,Adam Hamilton,D,171,Roger Marshall,R,877,36,1084,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20137,Norton County,Adam Hamilton,D,371,Roger Marshall,R,1359,77,1807,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20139,Osage County,Adam Hamilton,D,2023,Roger Marshall,R,3743,318,6084,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20141,Osborne County,Adam Hamilton,D,261,Roger Marshall,R,965,66,1292,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20143,Ottawa County,Adam Hamilton,D,510,Roger Marshall,R,1846,87,2443,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20145,Pawnee County,Adam Hamilton,D,607,Roger Marshall,R,1359,85,2051,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20147,Phillips County,Adam Hamilton,D,338,Roger Marshall,R,1532,112,1982,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20149,Pottawatomie County,Adam Hamilton,D,3618,Roger Marshall,R,6725,473,10816,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20151,Pratt County,Adam Hamilton,D,1032,Roger Marshall,R,2129,130,3291,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20153,Rawlins County,Adam Hamilton,D,211,Roger Marshall,R,829,45,1085,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20155,Reno County,Adam Hamilton,D,8721,Roger Marshall,R,12155,849,21725,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20157,Republic County,Adam Hamilton,D,441,Roger Marshall,R,1404,97,1942,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20159,Rice County,Adam Hamilton,D,930,Roger Marshall,R,2192,125,3247,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20161,Riley County,Adam Hamilton,D,11848,Roger Marshall,R,7616,556,20020,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20163,Rooks County,Adam Hamilton,D,379,Roger Marshall,R,1468,75,1922,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20165,Rush County,Adam Hamilton,D,326,Roger Marshall,R,922,56,1304,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20167,Russell County,Adam Hamilton,D,651,Roger Marshall,R,1786,112,2549,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20169,Saline County,Adam Hamilton,D,8110,Roger Marshall,R,10927,599,19636,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20171,Scott County,Adam Hamilton,D,341,Roger Marshall,R,1254,60,1655,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20173,Sedgwick County,Adam Hamilton,D,96086,Roger Marshall,R,82089,4540,182715,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20175,Seward County,Adam Hamilton,D,2306,Roger Marshall,R,1742,140,4188,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20177,Shawnee County,Adam Hamilton,D,40400,Roger Marshall,R,27085,2474,69959,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20179,Sheridan County,Adam Hamilton,D,137,Roger Marshall,R,870,41,1048,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20181,Sherman County,Adam Hamilton,D,400,Roger Marshall,R,1415,86,1901,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20183,Smith County,Adam Hamilton,D,298,Roger Marshall,R,1173,52,1523,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20185,Stafford County,Adam Hamilton,D,380,Roger Marshall,R,1034,81,1495,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20187,Stanton County,Adam Hamilton,D,137,Roger Marshall,R,364,30,531,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20189,Stevens County,Adam Hamilton,D,303,Roger Marshall,R,976,61,1340,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20191,Sumner County,Adam Hamilton,D,2655,Roger Marshall,R,5101,356,8112,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20193,Thomas County,Adam Hamilton,D,677,Roger Marshall,R,2064,94,2835,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20195,Trego County,Adam Hamilton,D,276,Roger Marshall,R,1001,82,1359,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20197,Wabaunsee County,Adam Hamilton,D,1026,Roger Marshall,R,2072,150,3248,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20199,Wallace County,Adam Hamilton,D,64,Roger Marshall,R,519,16,599,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20201,Washington County,Adam Hamilton,D,414,Roger Marshall,R,1673,69,2156,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20203,Wichita County,Adam Hamilton,D,128,Roger Marshall,R,538,28,694,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20205,Wilson County,Adam Hamilton,D,676,Roger Marshall,R,1964,147,2787,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20207,Woodson County,Adam Hamilton,D,271,Roger Marshall,R,769,68,1108,no,2026-11-16T01:56:18Z
+SEN-KS,KS,Senate,county,20209,Wyandotte County,Adam Hamilton,D,31452,Roger Marshall,R,10412,1317,43181,no,2026-11-16T01:56:18Z

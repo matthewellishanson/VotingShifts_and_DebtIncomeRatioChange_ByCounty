@@ -1,0 +1,10 @@
+{
+  "states": {"KS": "20", "MO": "29"},
+  "expected_counties": {"KS": 105, "MO": 115},
+  "debt_start": [2024, 3],
+  "debt_end": [2025, 4],
+  "presidential_year": 2024,
+  "comparison_year": 2026,
+  "missouri_unresolved_counties": ["29037", "29047", "29095", "29165"],
+  "note": "Conservative hold: Cass, Clay, Jackson and Platte until separate Kansas City presidential reporting is reconciled with official county totals."
+}

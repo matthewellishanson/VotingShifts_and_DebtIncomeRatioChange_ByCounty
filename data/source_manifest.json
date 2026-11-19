@@ -1,0 +1,97 @@
+{
+  "scope": {
+    "states": {
+      "KS": "20",
+      "MO": "29"
+    },
+    "expected_counties": {
+      "KS": 105,
+      "MO": 115
+    },
+    "debt_start": [
+      2024,
+      3
+    ],
+    "debt_end": [
+      2025,
+      4
+    ],
+    "presidential_year": 2024,
+    "comparison_year": 2026,
+    "missouri_unresolved_counties": [
+      "29037",
+      "29047",
+      "29095",
+      "29165"
+    ],
+    "note": "Conservative hold: Cass, Clay, Jackson and Platte until separate Kansas City presidential reporting is reconciled with official county totals."
+  },
+  "archives": [
+    {
+      "source": "fed",
+      "path": "data\\archives\\household-debt.zip",
+      "sha256": "d04a959e403f05b960e51233261e4371f907f70f6d32dcce27b171bb2d4441dc"
+    },
+    {
+      "source": "medsl",
+      "path": "data\\archives\\dataverse_files.zip",
+      "sha256": "f72aeeac90014659e725741e2ca693928d1b39dd40657dc48702a22145654f90"
+    },
+    {
+      "source": "ctm",
+      "path": "data\\archives\\callthemap-results-2026-all.zip",
+      "sha256": "6ff50cbc901ae138c7faefbeb885539a257d8b9142b384cdfab870cefbdcba25"
+    }
+  ],
+  "subsets": [
+    {
+      "path": "data\\raw\\fed\\county_debt_ks_mo.csv",
+      "rows": 1760,
+      "sha256": "de18a3eee803c56ac46da78d763604e30fd2a7bd5118f82ee90335470f606691"
+    },
+    {
+      "path": "data\\raw\\medsl\\president_2024_ks_mo.csv",
+      "rows": 884,
+      "sha256": "4677bf3b4e49c05cae2eef962ea46a988e59eec92ea3c8fb2bc4443ec7619753"
+    },
+    {
+      "path": "data\\raw\\callthemap\\counties_2026_ks_mo.csv",
+      "rows": 444,
+      "sha256": "6f9e417f56df85b458e5f11687062232e4190b03bea9647f15b1fcb93f033818"
+    }
+  ],
+  "raw_files": [
+    {
+      "path": "data/raw/callthemap/counties_2026_ks_mo.csv",
+      "sha256": "6f9e417f56df85b458e5f11687062232e4190b03bea9647f15b1fcb93f033818"
+    },
+    {
+      "path": "data/raw/callthemap/races_2026_ks_mo.csv",
+      "sha256": "ca0c189cf444710a0d36b751de9d54e9322fce45a7dbcc688c295b7de8b6c856"
+    },
+    {
+      "path": "data/raw/callthemap/README_source.txt",
+      "sha256": "89ff495bfb2eb54487ed52fcb06284f118d8361db3992ef04e33ee6941f5d716"
+    },
+    {
+      "path": "data/raw/fed/county_debt_ks_mo.csv",
+      "sha256": "de18a3eee803c56ac46da78d763604e30fd2a7bd5118f82ee90335470f606691"
+    },
+    {
+      "path": "data/raw/fed/dictionary.txt",
+      "sha256": "ecdf146e41eead4b8fca48b05024a28b29ba0cf94986c16ad81525d99cfe41dc"
+    },
+    {
+      "path": "data/raw/medsl/codebook.md",
+      "sha256": "12447fa5e7a7a823bc4416f34a6c624313cc703b745fcbfb2fe64902d2b37c70"
+    },
+    {
+      "path": "data/raw/medsl/president_2024_ks_mo.csv",
+      "sha256": "4677bf3b4e49c05cae2eef962ea46a988e59eec92ea3c8fb2bc4443ec7619753"
+    },
+    {
+      "path": "data/raw/medsl/sources-president.csv",
+      "sha256": "427a44a3c35eb63536780ff31a9abfaef87cd11b9c8d0adff444c34adaed8e94"
+    }
+  ]
+}
