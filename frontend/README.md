@@ -1,7 +1,8 @@
-# Frontend milestone (not implemented yet)
+# Kansas provisional research demo
 
-The current starter prepares data; it does not include a map or a runnable JavaScript app. Do not run npm here yet.
+This directory contains the static React/Vite/TypeScript frontend. It has no
+backend and reads only files generated into `public/data/` by the repository's
+standard-library Python preparation command.
 
-Next implementation: React + Vite + TypeScript, an SVG county map, linked searchable table and county details, debt-transition toggle and grouped electoral-shift dot plot. Use static county_demo.json and an explicitly sourced boundary file. Preserve metadata, nulls, provisional status and MO geographic holds. The first useful view is Kansas governor versus 2024 president.
-
-See ../docs/NEXT_CODEX_TASK.md for a concrete implementation prompt. There is no server/database/API-key requirement for the demo.
+Run the exact Windows commands in the root `README.md`. Do not edit generated
+files under `public/data/`; rebuild them with `python scripts/prepare_frontend.py`.

@@ -230,6 +230,9 @@ __marimo__/
 /reports/quality_report.*
 /frontend/node_modules/
 /frontend/dist/
+!/frontend/src/lib/
+/frontend/public/data/
+/frontend/*.tsbuildinfo
 .env
 .env.*
 !.env.example
