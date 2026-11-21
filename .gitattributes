@@ -4,3 +4,5 @@
 *.json text eol=lf
 *.csv text eol=lf
 *.zip binary
+# Raw snapshots are hash-verified byte-for-byte; never normalize or text-diff them.
+data/raw/** binary

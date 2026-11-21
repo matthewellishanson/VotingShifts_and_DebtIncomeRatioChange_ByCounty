@@ -1,0 +1,537 @@
+{
+  "source_url": "https://www.bls.gov/lau/tables.htm",
+  "workbooks": [
+    {
+      "file": "laucnty08.xlsx",
+      "sha256": "2603e8bc27e188f583a7678cd5a81ac6adf6aab99c08f72194fe49717b5d7f3e",
+      "sheet": "laucnty08",
+      "year": 2008,
+      "title": "Labor Force Data by County, 2008 Annual Averages",
+      "data_rows": 3218,
+      "source_date_text": "April 18, 2025",
+      "source_notes": [
+        {
+          "worksheet_row": 3222,
+          "cells": {
+            "A": "SOURCE:  BLS, LAUS",
+            "B": "",
+            "C": "",
+            "D": "",
+            "E": "",
+            "F": "",
+            "G": "",
+            "H": "",
+            "I": ""
+          }
+        },
+        {
+          "worksheet_row": 3223,
+          "cells": {
+            "A": "April 18, 2025",
+            "B": "",
+            "C": "",
+            "D": "",
+            "E": "",
+            "F": "",
+            "G": "",
+            "H": "",
+            "I": ""
+          }
+        }
+      ],
+      "rate_consistency_alerts": [],
+      "ks_rows": 105,
+      "mo_rows": 115,
+      "converted_csv_sha256": "8d2ac7857dc6f6d8b83f2f9b862fb85e5274012ec1aee7a51627da15b6ef3da2"
+    },
+    {
+      "file": "laucnty09.xlsx",
+      "sha256": "93149a375e4cfcc64b134d6774a584fbc1797d9c9f0ee57be48154014e0c91fd",
+      "sheet": "laucnty09",
+      "year": 2009,
+      "title": "Labor Force Data by County, 2009 Annual Averages",
+      "data_rows": 3218,
+      "source_date_text": "April 18, 2025",
+      "source_notes": [
+        {
+          "worksheet_row": 3222,
+          "cells": {
+            "A": "SOURCE:  BLS, LAUS",
+            "B": "",
+            "C": "",
+            "D": "",
+            "E": "",
+            "F": "",
+            "G": "",
+            "H": "",
+            "I": ""
+          }
+        },
+        {
+          "worksheet_row": 3223,
+          "cells": {
+            "A": "April 18, 2025",
+            "B": "",
+            "C": "",
+            "D": "",
+            "E": "",
+            "F": "",
+            "G": "",
+            "H": "",
+            "I": ""
+          }
+        }
+      ],
+      "rate_consistency_alerts": [],
+      "ks_rows": 105,
+      "mo_rows": 115,
+      "converted_csv_sha256": "0b025ed0518b118fac43b5a1f8816be4ff1691c3510eaeb790c72ad9a907d9f4"
+    },
+    {
+      "file": "laucnty10.xlsx",
+      "sha256": "37708f73d6cc6b0c60abfaa016abf2a733dae3f1e35873129fe4ab3c656db27c",
+      "sheet": "laucnty10",
+      "year": 2010,
+      "title": "Labor Force Data by County, 2010 Annual Averages",
+      "data_rows": 3220,
+      "source_date_text": "April 18, 2025",
+      "source_notes": [
+        {
+          "worksheet_row": 3224,
+          "cells": {
+            "A": "SOURCE:  BLS, LAUS"
+          }
+        },
+        {
+          "worksheet_row": 3225,
+          "cells": {
+            "A": "April 18, 2025"
+          }
+        }
+      ],
+      "rate_consistency_alerts": [],
+      "ks_rows": 105,
+      "mo_rows": 115,
+      "converted_csv_sha256": "4cf36744533a78d03c3c7a695ab304a3cf9186743254aec58128d8e701432048"
+    },
+    {
+      "file": "laucnty11.xlsx",
+      "sha256": "e0d753c03fed62fbd3b64215b9ec466f67cfdbdd8e6a0cb59eb3a4045e5f4a34",
+      "sheet": "laucnty11",
+      "year": 2011,
+      "title": "Labor Force Data by County, 2011 Annual Averages",
+      "data_rows": 3220,
+      "source_date_text": "April 18, 2025",
+      "source_notes": [
+        {
+          "worksheet_row": 3224,
+          "cells": {
+            "A": "SOURCE:  BLS, LAUS"
+          }
+        },
+        {
+          "worksheet_row": 3225,
+          "cells": {
+            "A": "April 18, 2025"
+          }
+        }
+      ],
+      "rate_consistency_alerts": [],
+      "ks_rows": 105,
+      "mo_rows": 115,
+      "converted_csv_sha256": "383b0699b468de79a5fe8e96f6680a58979c4c12f9686434c569e35cbd7a2de6"
+    },
+    {
+      "file": "laucnty12.xlsx",
+      "sha256": "3751a42b4a3a85fad214a1a4829bac06ee9401f58b7e625199d6ecb590f09043",
+      "sheet": "laucnty12",
+      "year": 2012,
+      "title": "Labor Force Data by County, 2012 Annual Averages",
+      "data_rows": 3220,
+      "source_date_text": "April 18, 2025",
+      "source_notes": [
+        {
+          "worksheet_row": 3224,
+          "cells": {
+            "A": "SOURCE:  BLS, LAUS"
+          }
+        },
+        {
+          "worksheet_row": 3225,
+          "cells": {
+            "A": "April 18, 2025"
+          }
+        }
+      ],
+      "rate_consistency_alerts": [],
+      "ks_rows": 105,
+      "mo_rows": 115,
+      "converted_csv_sha256": "5bdf5523360f6f27b77a237ca36c7c772142b38db8a81c9dd712fb6cf19d22c5"
+    },
+    {
+      "file": "laucnty13.xlsx",
+      "sha256": "9425c033000696fcb9ee5572d76a4b181cdba32a4951611f5e9fb006aef811cf",
+      "sheet": "laucnty13",
+      "year": 2013,
+      "title": "Labor Force Data by County, 2013 Annual Averages",
+      "data_rows": 3220,
+      "source_date_text": "April 18, 2025",
+      "source_notes": [
+        {
+          "worksheet_row": 3224,
+          "cells": {
+            "A": "SOURCE:  BLS, LAUS"
+          }
+        },
+        {
+          "worksheet_row": 3225,
+          "cells": {
+            "A": "April 18, 2025"
+          }
+        }
+      ],
+      "rate_consistency_alerts": [],
+      "ks_rows": 105,
+      "mo_rows": 115,
+      "converted_csv_sha256": "5b87701bd5100a51ead02f128bd406428938fd0abdadbef3400bb7cc10477228"
+    },
+    {
+      "file": "laucnty14.xlsx",
+      "sha256": "1c44e4dea9068a332846d2b4781e21e3b471d1aa3648ca5fa4970600aca2c9d0",
+      "sheet": "laucnty14",
+      "year": 2014,
+      "title": "Labor Force Data by County, 2014 Annual Averages",
+      "data_rows": 3220,
+      "source_date_text": "April 18, 2025",
+      "source_notes": [
+        {
+          "worksheet_row": 3224,
+          "cells": {
+            "A": "SOURCE:  BLS, LAUS"
+          }
+        },
+        {
+          "worksheet_row": 3225,
+          "cells": {
+            "A": "April 18, 2025"
+          }
+        }
+      ],
+      "rate_consistency_alerts": [],
+      "ks_rows": 105,
+      "mo_rows": 115,
+      "converted_csv_sha256": "2b089d5532d6a2febfb79365e39bc218365b297cc2cf734375355e0c8853db26"
+    },
+    {
+      "file": "laucnty15.xlsx",
+      "sha256": "664648657cb762c3d08000d9c7751601f7a63aade2bdd38e6578da2f06b0a85c",
+      "sheet": "laucnty15",
+      "year": 2015,
+      "title": "Labor Force Data by County, 2015 Annual Averages",
+      "data_rows": 3220,
+      "source_date_text": "April 18, 2025",
+      "source_notes": [
+        {
+          "worksheet_row": 3224,
+          "cells": {
+            "A": "SOURCE:  BLS, LAUS"
+          }
+        },
+        {
+          "worksheet_row": 3225,
+          "cells": {
+            "A": "April 18, 2025"
+          }
+        }
+      ],
+      "rate_consistency_alerts": [],
+      "ks_rows": 105,
+      "mo_rows": 115,
+      "converted_csv_sha256": "ab363cdd3d27aada87e0533b928db7fe28f6626b41798706f01e7a1125b42bfc"
+    },
+    {
+      "file": "laucnty16.xlsx",
+      "sha256": "c0b092ce596f41cb8a08eabacdd842b183bb54b2d730a96b9912e8632bdf324a",
+      "sheet": "laucnty16",
+      "year": 2016,
+      "title": "Labor Force Data by County, 2016 Annual Averages",
+      "data_rows": 3220,
+      "source_date_text": "May 19, 2026",
+      "source_notes": [
+        {
+          "worksheet_row": 3224,
+          "cells": {
+            "A": "SOURCE:  BLS, LAUS"
+          }
+        },
+        {
+          "worksheet_row": 3225,
+          "cells": {
+            "A": "May 19, 2026"
+          }
+        }
+      ],
+      "rate_consistency_alerts": [],
+      "ks_rows": 105,
+      "mo_rows": 115,
+      "converted_csv_sha256": "e13f3f2a0cebf6478d42c501dd8aed9e21affee154d864d9e2dd8c65a5e8b8d1"
+    },
+    {
+      "file": "laucnty17.xlsx",
+      "sha256": "9d322016847535cd6a0bf5cb451b2767f2ce04b2cb99da8793341ee2663a17d6",
+      "sheet": "laucnty17",
+      "year": 2017,
+      "title": "Labor Force Data by County, 2017 Annual Averages",
+      "data_rows": 3220,
+      "source_date_text": "May 19, 2026",
+      "source_notes": [
+        {
+          "worksheet_row": 3224,
+          "cells": {
+            "A": "SOURCE:  BLS, LAUS"
+          }
+        },
+        {
+          "worksheet_row": 3225,
+          "cells": {
+            "A": "May 19, 2026"
+          }
+        }
+      ],
+      "rate_consistency_alerts": [],
+      "ks_rows": 105,
+      "mo_rows": 115,
+      "converted_csv_sha256": "76efc1d42f44b61a7bb340d04457d9711aa1dccd9047ebbdd11433e5ed4c5122"
+    },
+    {
+      "file": "laucnty18.xlsx",
+      "sha256": "d354bb58f8726aca7d065922b8595edf0ad4c264c0dff61450f89bbcb22fadc5",
+      "sheet": "laucnty18",
+      "year": 2018,
+      "title": "Labor Force Data by County, 2018 Annual Averages",
+      "data_rows": 3220,
+      "source_date_text": "May 19, 2026",
+      "source_notes": [
+        {
+          "worksheet_row": 3224,
+          "cells": {
+            "A": "SOURCE:  BLS, LAUS"
+          }
+        },
+        {
+          "worksheet_row": 3225,
+          "cells": {
+            "A": "May 19, 2026"
+          }
+        }
+      ],
+      "rate_consistency_alerts": [],
+      "ks_rows": 105,
+      "mo_rows": 115,
+      "converted_csv_sha256": "59c189bad7dc5294330a880150ecca9cdf1bfecb0086a259aa88dbb33f1e0c46"
+    },
+    {
+      "file": "laucnty19.xlsx",
+      "sha256": "f732ffd9a8a842b42eb52f5c025e39811fc9836ce3d4057bdee016593ecccea4",
+      "sheet": "laucnty19",
+      "year": 2019,
+      "title": "Labor Force Data by County, 2019 Annual Averages",
+      "data_rows": 3220,
+      "source_date_text": "May 19, 2026",
+      "source_notes": [
+        {
+          "worksheet_row": 3224,
+          "cells": {
+            "A": "SOURCE:  BLS, LAUS"
+          }
+        },
+        {
+          "worksheet_row": 3225,
+          "cells": {
+            "A": "May 19, 2026"
+          }
+        }
+      ],
+      "rate_consistency_alerts": [],
+      "ks_rows": 105,
+      "mo_rows": 115,
+      "converted_csv_sha256": "36bba6057c59841848ce28b4af7a834407e58c33c80bb97a96ba8e24a930b012"
+    },
+    {
+      "file": "laucnty20.xlsx",
+      "sha256": "e7d35d1336a0b1f1eaa160c6b617ed8a8ea649928cd11cdf8bc65b1f91aca362",
+      "sheet": "laucnty20",
+      "year": 2020,
+      "title": "Labor Force Data by County, 2020 Annual Averages",
+      "data_rows": 3221,
+      "source_date_text": "May 19, 2026",
+      "source_notes": [
+        {
+          "worksheet_row": 3225,
+          "cells": {
+            "A": "SOURCE:  BLS, LAUS"
+          }
+        },
+        {
+          "worksheet_row": 3226,
+          "cells": {
+            "A": "May 19, 2026"
+          }
+        }
+      ],
+      "rate_consistency_alerts": [],
+      "ks_rows": 105,
+      "mo_rows": 115,
+      "converted_csv_sha256": "3e3d3970535b520ba8934dd1c3c311703b6f3da7a0ac20c10a9299353a6b0e67"
+    },
+    {
+      "file": "laucnty21.xlsx",
+      "sha256": "fc1dc4416442acb985ed3972d512f240b3742834ef420b6f2afba14062c0ce3b",
+      "sheet": "laucnty21",
+      "year": 2021,
+      "title": "Labor Force Data by County, 2021 Annual Averages",
+      "data_rows": 3221,
+      "source_date_text": "May 19, 2026",
+      "source_notes": [
+        {
+          "worksheet_row": 3225,
+          "cells": {
+            "A": "SOURCE:  BLS, LAUS"
+          }
+        },
+        {
+          "worksheet_row": 3226,
+          "cells": {
+            "A": "May 19, 2026"
+          }
+        }
+      ],
+      "rate_consistency_alerts": [],
+      "ks_rows": 105,
+      "mo_rows": 115,
+      "converted_csv_sha256": "3c9ffd1720418de9b6040b054e19a1c167b578119fbeb498188b95e5565a512d"
+    },
+    {
+      "file": "laucnty22.xlsx",
+      "sha256": "d293e7b7193c23154c7e4a5b5fdfc6ea34e4ae1255e3871463343b5379ca0763",
+      "sheet": "laucnty22",
+      "year": 2022,
+      "title": "Labor Force Data by County, 2022 Annual Averages",
+      "data_rows": 3221,
+      "source_date_text": "May 19, 2026",
+      "source_notes": [
+        {
+          "worksheet_row": 3225,
+          "cells": {
+            "A": "SOURCE:  BLS, LAUS"
+          }
+        },
+        {
+          "worksheet_row": 3226,
+          "cells": {
+            "A": "May 19, 2026"
+          }
+        }
+      ],
+      "rate_consistency_alerts": [],
+      "ks_rows": 105,
+      "mo_rows": 115,
+      "converted_csv_sha256": "1b51abcd642022edebdd62bc2beca496715637957e0d0851723c28db0d666aed"
+    },
+    {
+      "file": "laucnty23.xlsx",
+      "sha256": "d5d7b3a80c941f96f1a38a76ac088532eb7f1c7fd0c28cf7718519a194f807be",
+      "sheet": "laucnty23",
+      "year": 2023,
+      "title": "Labor Force Data by County, 2023 Annual Averages",
+      "data_rows": 3221,
+      "source_date_text": "May 19, 2026",
+      "source_notes": [
+        {
+          "worksheet_row": 3225,
+          "cells": {
+            "A": "SOURCE:  BLS, LAUS"
+          }
+        },
+        {
+          "worksheet_row": 3226,
+          "cells": {
+            "A": "May 19, 2026"
+          }
+        }
+      ],
+      "rate_consistency_alerts": [],
+      "ks_rows": 105,
+      "mo_rows": 115,
+      "converted_csv_sha256": "cdb54777612412739342cc07cb74d609e23a3c040b52ecf02dfa54af6048f792"
+    },
+    {
+      "file": "laucnty24.xlsx",
+      "sha256": "fe330b9f9c96a2338d125b9b0729132a5be7ffbe392a94385f135416eb3e889e",
+      "sheet": "laucnty24",
+      "year": 2024,
+      "title": "Labor Force Data by County, 2024 Annual Averages",
+      "data_rows": 3221,
+      "source_date_text": "May 19, 2026",
+      "source_notes": [
+        {
+          "worksheet_row": 3225,
+          "cells": {
+            "A": "SOURCE:  BLS, LAUS"
+          }
+        },
+        {
+          "worksheet_row": 3226,
+          "cells": {
+            "A": "May 19, 2026"
+          }
+        }
+      ],
+      "rate_consistency_alerts": [],
+      "ks_rows": 105,
+      "mo_rows": 115,
+      "converted_csv_sha256": "dc98ebafc1b0773795d5ef44986b58214aee8830af44125f155e36a374e6c5fb"
+    },
+    {
+      "file": "laucnty25.xlsx",
+      "sha256": "8b7d01a87807bbeb13cf18db9ee1cb393273803a5384f4f48262048fb37b1505",
+      "sheet": "laucnty25",
+      "year": 2025,
+      "title": "Labor Force Data by County, 2025 11-Month and Annual Averages*",
+      "data_rows": 3221,
+      "source_date_text": "May 19, 2026",
+      "source_notes": [
+        {
+          "worksheet_row": 3225,
+          "cells": {
+            "A": "*Annual estimates for all counties outside of Puerto Rico are 11-month averages that exclude October 2025. Data for October were not collected due to the federal government shutdown. Therefore, estimates are not fully comparable to annual averages for other years. Data collection from Puerto Rico's household survey was not affected by the 2025 federal government shutdown. The 2025 annual averages for Puerto Rico were calculated based on the 12 underlying months of the year and are fully comparable to annual averages for other years.",
+            "B": "",
+            "C": "",
+            "D": "",
+            "E": "",
+            "F": "",
+            "G": "",
+            "H": "",
+            "I": ""
+          }
+        },
+        {
+          "worksheet_row": 3226,
+          "cells": {
+            "A": "SOURCE:  BLS, LAUS"
+          }
+        },
+        {
+          "worksheet_row": 3227,
+          "cells": {
+            "A": "May 19, 2026"
+          }
+        }
+      ],
+      "rate_consistency_alerts": [],
+      "ks_rows": 105,
+      "mo_rows": 115,
+      "converted_csv_sha256": "02535e6d853a3d7fd36dd6f9856c73cc7347ef113ecf6de27edeec8778355ca8"
+    }
+  ]
+}

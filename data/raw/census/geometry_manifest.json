@@ -1,0 +1,13 @@
+{
+  "source_url": "https://www2.census.gov/geo/tiger/GENZ2024/kml/cb_2024_us_county_500k.zip",
+  "source_page": "https://www.census.gov/geographies/mapping-files/2024/geo/carto-boundary-file.html",
+  "retrieved": "2026-11-18",
+  "vintage": 2024,
+  "scale": "1:500,000",
+  "archive_path": "data\\archives\\cb_2024_us_county_500k.zip",
+  "archive_sha256": "6b8cb48faba362e629fa179c77a01e3df4472d25730c7275a1cced3f940e6a69",
+  "subset_path": "data\\raw\\census\\ks_counties_2024_500k.geojson",
+  "subset_sha256": "d584ce08b5de82a24ab57e3b6a9db2254c902ac52b593e9bfbfb3be980dcba70",
+  "features": 105,
+  "filter": "STATEFP == '20'"
+}

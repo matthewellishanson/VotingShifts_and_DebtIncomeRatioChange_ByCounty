@@ -62,6 +62,162 @@
   ],
   "raw_files": [
     {
+      "path": "data/raw/bls_laus_annual/csv/laucnty08.csv",
+      "sha256": "8d2ac7857dc6f6d8b83f2f9b862fb85e5274012ec1aee7a51627da15b6ef3da2"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/csv/laucnty09.csv",
+      "sha256": "0b025ed0518b118fac43b5a1f8816be4ff1691c3510eaeb790c72ad9a907d9f4"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/csv/laucnty10.csv",
+      "sha256": "4cf36744533a78d03c3c7a695ab304a3cf9186743254aec58128d8e701432048"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/csv/laucnty11.csv",
+      "sha256": "383b0699b468de79a5fe8e96f6680a58979c4c12f9686434c569e35cbd7a2de6"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/csv/laucnty12.csv",
+      "sha256": "5bdf5523360f6f27b77a237ca36c7c772142b38db8a81c9dd712fb6cf19d22c5"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/csv/laucnty13.csv",
+      "sha256": "5b87701bd5100a51ead02f128bd406428938fd0abdadbef3400bb7cc10477228"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/csv/laucnty14.csv",
+      "sha256": "2b089d5532d6a2febfb79365e39bc218365b297cc2cf734375355e0c8853db26"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/csv/laucnty15.csv",
+      "sha256": "ab363cdd3d27aada87e0533b928db7fe28f6626b41798706f01e7a1125b42bfc"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/csv/laucnty16.csv",
+      "sha256": "e13f3f2a0cebf6478d42c501dd8aed9e21affee154d864d9e2dd8c65a5e8b8d1"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/csv/laucnty17.csv",
+      "sha256": "76efc1d42f44b61a7bb340d04457d9711aa1dccd9047ebbdd11433e5ed4c5122"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/csv/laucnty18.csv",
+      "sha256": "59c189bad7dc5294330a880150ecca9cdf1bfecb0086a259aa88dbb33f1e0c46"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/csv/laucnty19.csv",
+      "sha256": "36bba6057c59841848ce28b4af7a834407e58c33c80bb97a96ba8e24a930b012"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/csv/laucnty20.csv",
+      "sha256": "3e3d3970535b520ba8934dd1c3c311703b6f3da7a0ac20c10a9299353a6b0e67"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/csv/laucnty21.csv",
+      "sha256": "3c9ffd1720418de9b6040b054e19a1c167b578119fbeb498188b95e5565a512d"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/csv/laucnty22.csv",
+      "sha256": "1b51abcd642022edebdd62bc2beca496715637957e0d0851723c28db0d666aed"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/csv/laucnty23.csv",
+      "sha256": "cdb54777612412739342cc07cb74d609e23a3c040b52ecf02dfa54af6048f792"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/csv/laucnty24.csv",
+      "sha256": "dc98ebafc1b0773795d5ef44986b58214aee8830af44125f155e36a374e6c5fb"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/csv/laucnty25.csv",
+      "sha256": "02535e6d853a3d7fd36dd6f9856c73cc7347ef113ecf6de27edeec8778355ca8"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/csv/workbook_metadata.json",
+      "sha256": "1439150dee5d9b1fbe71c4623ee139651cda231d6a35e7d9cadc451bd7829823"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/xlsx/laucnty08.xlsx",
+      "sha256": "2603e8bc27e188f583a7678cd5a81ac6adf6aab99c08f72194fe49717b5d7f3e"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/xlsx/laucnty09.xlsx",
+      "sha256": "93149a375e4cfcc64b134d6774a584fbc1797d9c9f0ee57be48154014e0c91fd"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/xlsx/laucnty10.xlsx",
+      "sha256": "37708f73d6cc6b0c60abfaa016abf2a733dae3f1e35873129fe4ab3c656db27c"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/xlsx/laucnty11.xlsx",
+      "sha256": "e0d753c03fed62fbd3b64215b9ec466f67cfdbdd8e6a0cb59eb3a4045e5f4a34"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/xlsx/laucnty12.xlsx",
+      "sha256": "3751a42b4a3a85fad214a1a4829bac06ee9401f58b7e625199d6ecb590f09043"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/xlsx/laucnty13.xlsx",
+      "sha256": "9425c033000696fcb9ee5572d76a4b181cdba32a4951611f5e9fb006aef811cf"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/xlsx/laucnty14.xlsx",
+      "sha256": "1c44e4dea9068a332846d2b4781e21e3b471d1aa3648ca5fa4970600aca2c9d0"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/xlsx/laucnty15.xlsx",
+      "sha256": "664648657cb762c3d08000d9c7751601f7a63aade2bdd38e6578da2f06b0a85c"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/xlsx/laucnty16.xlsx",
+      "sha256": "c0b092ce596f41cb8a08eabacdd842b183bb54b2d730a96b9912e8632bdf324a"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/xlsx/laucnty17.xlsx",
+      "sha256": "9d322016847535cd6a0bf5cb451b2767f2ce04b2cb99da8793341ee2663a17d6"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/xlsx/laucnty18.xlsx",
+      "sha256": "d354bb58f8726aca7d065922b8595edf0ad4c264c0dff61450f89bbcb22fadc5"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/xlsx/laucnty19.xlsx",
+      "sha256": "f732ffd9a8a842b42eb52f5c025e39811fc9836ce3d4057bdee016593ecccea4"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/xlsx/laucnty20.xlsx",
+      "sha256": "e7d35d1336a0b1f1eaa160c6b617ed8a8ea649928cd11cdf8bc65b1f91aca362"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/xlsx/laucnty21.xlsx",
+      "sha256": "fc1dc4416442acb985ed3972d512f240b3742834ef420b6f2afba14062c0ce3b"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/xlsx/laucnty22.xlsx",
+      "sha256": "d293e7b7193c23154c7e4a5b5fdfc6ea34e4ae1255e3871463343b5379ca0763"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/xlsx/laucnty23.xlsx",
+      "sha256": "d5d7b3a80c941f96f1a38a76ac088532eb7f1c7fd0c28cf7718519a194f807be"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/xlsx/laucnty24.xlsx",
+      "sha256": "fe330b9f9c96a2338d125b9b0729132a5be7ffbe392a94385f135416eb3e889e"
+    },
+    {
+      "path": "data/raw/bls_laus_annual/xlsx/laucnty25.xlsx",
+      "sha256": "8b7d01a87807bbeb13cf18db9ee1cb393273803a5384f4f48262048fb37b1505"
+    },
+    {
+      "path": "data/raw/bls_laus_monthly/laucntycur14.csv",
+      "sha256": "cd1da5dfbbabc3cb0db28295d13a9e9dd2c3fae88fe3101871c7c66d112f972a"
+    },
+    {
+      "path": "data/raw/bls_laus_monthly/laucntycur14.xlsx",
+      "sha256": "02e29161a7757648028d578040e1a18a80eaf8662d5d93288a2f1055fab30a81"
+    },
+    {
       "path": "data/raw/callthemap/counties_2026_ks_mo.csv",
       "sha256": "6f9e417f56df85b458e5f11687062232e4190b03bea9647f15b1fcb93f033818"
     },
@@ -72,6 +228,14 @@
     {
       "path": "data/raw/callthemap/README_source.txt",
       "sha256": "89ff495bfb2eb54487ed52fcb06284f118d8361db3992ef04e33ee6941f5d716"
+    },
+    {
+      "path": "data/raw/census/geometry_manifest.json",
+      "sha256": "48be7625864da9e2ff7a3b1a7fecbf7eeb7954f811c85e5ee205154c0f2b7fa8"
+    },
+    {
+      "path": "data/raw/census/ks_counties_2024_500k.geojson",
+      "sha256": "d584ce08b5de82a24ab57e3b6a9db2254c902ac52b593e9bfbfb3be980dcba70"
     },
     {
       "path": "data/raw/fed/county_debt_ks_mo.csv",
@@ -92,6 +256,2670 @@
     {
       "path": "data/raw/medsl/sources-president.csv",
       "sha256": "427a44a3c35eb63536780ff31a9abfaef87cd11b9c8d0adff444c34adaed8e94"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20000 Kansas -- Statewide.csv",
+      "sha256": "8d867a73e10ce3169189acd365027911fd3adcd8841c1a2bb79b14269ba3dcc0"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20001 Allen County, Kansas.csv",
+      "sha256": "421d9be60d4c60fa036695e485cb1338e8f8cc2c2b16fdac17a2b7b19997de5e"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20003 Anderson County, Kansas.csv",
+      "sha256": "0ea3413f0bfb04f3055d3caafc9ebeb188c540702ba5bdce7034e9516b29ca4b"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20005 Atchison County, Kansas.csv",
+      "sha256": "1328dfd917714e53bfc77d1a0f2e71a7757624d3c4903d7cb85912845d91e865"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20007 Barber County, Kansas.csv",
+      "sha256": "2bf759371b3ff004c73534cc296bfb65c563c4c2c82cb7591f472624378d7df2"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20009 Barton County, Kansas.csv",
+      "sha256": "8d10eae32042b919054be03e7e3acc7f13fcee392535a4524e68e9524c4795c1"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20011 Bourbon County, Kansas.csv",
+      "sha256": "86c3a25f759fcda0d5feb8fa251982838b12b559de5759b1944ba896127e1c39"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20013 Brown County, Kansas.csv",
+      "sha256": "a5e28a056cdd3595f020a4fe3e33eba3f89e7681cebb36c7c53db0ea31681132"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20015 Butler County, Kansas.csv",
+      "sha256": "2783416e099832e3237ff08f1fc29aebd6edb03c3d2ad2cb268565bdc6e76da7"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20017 Chase County, Kansas.csv",
+      "sha256": "49c592d6b1693c950179f1032c7dd445818941ed05054bba5899c9aaf8ac66c8"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20019 Chautauqua County, Kansas.csv",
+      "sha256": "abbf161c37b089a0914e1139b1f4647dd3661735f63963e12f9573223d04d465"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20021 Cherokee County, Kansas.csv",
+      "sha256": "51b8d253df281b84aafd3c189b97d47471b26356ad27e70df891bea77051fceb"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20023 Cheyenne County, Kansas.csv",
+      "sha256": "7e593b4367fff9a0fafaec20f08323f6e10e86a08ed78f30b9fd0c733fcb4ba4"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20025 Clark County, Kansas.csv",
+      "sha256": "60a27fdae8e8852444623b6ba89a2eef71a78fe0eb3e6255d2624466622d06ab"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20027 Clay County, Kansas.csv",
+      "sha256": "a02a65b164ea8511800e1a3a87e0162a7a986b519c6d2a45d8d3889ffbf9fe67"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20029 Cloud County, Kansas.csv",
+      "sha256": "97a2fc7f9869f63d225c01cd575b03c1e9392b19d923b37df2d2e24de364ac5d"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20031 Coffey County, Kansas.csv",
+      "sha256": "f89e8bc751858acb8ca9e8bb21ed17855dad93f282fd19e4b3ff0a038904cb0d"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20033 Comanche County, Kansas.csv",
+      "sha256": "3ba14c5c7982b035f41eecce8e6b9935dd4646f76a84d0b2769931409ac77353"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20035 Cowley County, Kansas.csv",
+      "sha256": "2448999c9a7e50dfe61db7be49abcacbbb40cb38af5e1f7ca3cbd6166de0870b"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20037 Crawford County, Kansas.csv",
+      "sha256": "089cb50d94405ac727dc6802b728ee07ff0eea8d8b86e530ea9b866f18a1401d"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20039 Decatur County, Kansas.csv",
+      "sha256": "282630b5bec2cc283872f167ace0d66591be370a62481e37bf4817b6adcc994a"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20041 Dickinson County, Kansas.csv",
+      "sha256": "bd149a3eeabfa9de4c4027eba8f5badd459f1c5e1f26112b25ff8486e98837d8"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20043 Doniphan County, Kansas.csv",
+      "sha256": "7ba5e83510964e9f937b6ff96540a4b618ad5697de4e0122faaf97a0fa430b27"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20045 Douglas County, Kansas.csv",
+      "sha256": "c1d8746bac6e257e3a67f3046044cb9402554297851840e23fb53e69e99a7b76"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20047 Edwards County, Kansas.csv",
+      "sha256": "6c6dacbfed592aba1e6dc155090a7a43504d089c7149080a695e37b2ed414972"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20049 Elk County, Kansas.csv",
+      "sha256": "5972c85133098b91c2d7c5344780eb6d552711aa9167b2ec7a573966621d5066"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20051 Ellis County, Kansas.csv",
+      "sha256": "810b7507b79518670ad519cfaf92291960ba611ec5696f1919404b46bbb61b5e"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20053 Ellsworth County, Kansas.csv",
+      "sha256": "49da3367fb8ac6700c23858a76998ed6889bb2f2b2e6eb948cd561ebd292c495"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20055 Finney County, Kansas.csv",
+      "sha256": "4edc860f4cd0ae86516b3ecd2f9486ab45a158bde86b18d2a32c4ff95cf17957"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20057 Ford County, Kansas.csv",
+      "sha256": "3bef5c2e331512336fd449e51f9429b494ef27cf7c28cacad7b57ccb6954066c"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20059 Franklin County, Kansas.csv",
+      "sha256": "e84dcedfdd7dc0d1dc08e78198ba9fcf76944ffe49f7fb29be3d4f89934af677"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20061 Geary County, Kansas.csv",
+      "sha256": "8d3047919c1b9f58e72df6b397f8a38dc5127a269bbb7b25c42714b9e25c390c"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20063 Gove County, Kansas.csv",
+      "sha256": "d1d2f7eee0b511cb756817553074084b106c94b517b10f306ce78417c49c281f"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20065 Graham County, Kansas.csv",
+      "sha256": "b61b7c2d8d086d6160d743bcc771acb9bb20fadcdf8a74cc1ba54776a80550ea"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20067 Grant County, Kansas.csv",
+      "sha256": "e177d1f283bc7bd524f9a4da772a5b4b9516feb2f9529ad7cf98930bd9175b3a"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20069 Gray County, Kansas.csv",
+      "sha256": "e51afba442536aa74037bc215daec2e056b87d15b7b329afe05403299bdeaba3"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20071 Greeley County, Kansas.csv",
+      "sha256": "40e750dabecfdddb2a3ad2e2affced2e9ccdbbf89ae2cf89e8901c6e1427f7e5"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20073 Greenwood County, Kansas.csv",
+      "sha256": "1f35306d607a8f6038f4bd41e51666745d44b667a214e1f0e24c47e73f158100"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20075 Hamilton County, Kansas.csv",
+      "sha256": "d8b64869b9c16d4f7f0c9056962220c0083932ceb7aa9345dee81cb8ba18e351"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20077 Harper County, Kansas.csv",
+      "sha256": "0b872db361f2bfd997190a815c3f1f7381bde038ef88fbfb4b414200d365c6f2"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20079 Harvey County, Kansas.csv",
+      "sha256": "ff00992a2b2fe2286cba1511539b9bf4a63aaedc648439288df39113d8e36f94"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20081 Haskell County, Kansas.csv",
+      "sha256": "b0375741a8fb576db8a7fdcc27df77aa215bfbddeff364784c96cf00bd728b92"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20083 Hodgeman County, Kansas.csv",
+      "sha256": "64b8ade636ddaa4d7aa848e39c21f1aeb7e55a53dfa2a3ad43a506c430354d8b"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20085 Jackson County, Kansas.csv",
+      "sha256": "8bb43fc12d6addca6423d0e573990a4bcf67272a418a2802f1fbef0b29db3732"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20087 Jefferson County, Kansas.csv",
+      "sha256": "f4a9296556a32d37c06913455ca8b16de5f2e06259ff7859da1eaacb01f16d24"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20089 Jewell County, Kansas.csv",
+      "sha256": "ccb9d78b5b37a1aef57034e4bcd91931c9f708b6bfd4177667469f597eddc016"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20091 Johnson County, Kansas.csv",
+      "sha256": "24e28c8b4a6ccbf922c2f79f7779f26b82f91029b078e5a599df2f845191768f"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20093 Kearny County, Kansas.csv",
+      "sha256": "10d7d2bd0eb9d1c9e5756c4abfe567de3e9631d033f3e25a2cc2fcdd5f646b3c"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20095 Kingman County, Kansas.csv",
+      "sha256": "fa3f847281d5276445d75cbf52b5b329dfa864cf39d18c1aab981d611fa37c8b"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20097 Kiowa County, Kansas.csv",
+      "sha256": "83b7dc9848c53df2348346bc85519bce13c3f49fe20ae48deb0945d7069bded2"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20099 Labette County, Kansas.csv",
+      "sha256": "f0d91674242e88b379a7baf7d98e7cba6de59f16181824706886722d13b00abb"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20101 Lane County, Kansas.csv",
+      "sha256": "5580f10cea2253f2a43875f7b695ba4d47121e2db89594754aecc411a4212f02"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20103 Leavenworth County, Kansas.csv",
+      "sha256": "fc9ba3f44fb0b7379cf99e812409b0ed7fcd1ea9065c11675e534e290e0879ae"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20105 Lincoln County, Kansas.csv",
+      "sha256": "3a72d74726c9749b87a32b9f66e0506afb98eb390dc047a828e4b19baac0e6d4"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20107 Linn County, Kansas.csv",
+      "sha256": "c11fd8a3d6b657d357f3c2e9ef92d668bdd5bb3141c12f9fd3ea9a376053aac1"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20109 Logan County, Kansas.csv",
+      "sha256": "771c3b71d5d23afc0de7b9499c8ef1a046959fec16478d3d97aad04c8750053e"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20111 Lyon County, Kansas.csv",
+      "sha256": "c2ce0741f877209bd9faa53ab36e61f65f7903e268cd976c8f983a797aaa5085"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20113 McPherson County, Kansas.csv",
+      "sha256": "3395bcd1586c1b4693465b4ee89a933e73660b8d05638b919ab7afae2a172fe7"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20115 Marion County, Kansas.csv",
+      "sha256": "ce9567a91fb9b5f49d58fafc7ff1458e80c18a685d107ad855cd5c2719c94a3a"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20117 Marshall County, Kansas.csv",
+      "sha256": "cd7598c3c4f0e3ff993062756fe356364685c1ef1554c905d7df558ebcf8a52c"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20119 Meade County, Kansas.csv",
+      "sha256": "a86236ec9cc0ebf410f5a8f96ffedcac6ff44b9d0fbc3291d33faa75275f6c28"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20121 Miami County, Kansas.csv",
+      "sha256": "dee80feecab67e264dab041c44dc6ce0a08ae876e03778924ed633c919a4d9f5"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20123 Mitchell County, Kansas.csv",
+      "sha256": "3e1fa9416982a2b6ee0fdb5f0ad70065a087e7b06ec3d057b395a1149c2382b6"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20125 Montgomery County, Kansas.csv",
+      "sha256": "0166398b33dc551ad7532d0a8c61e5e2e99995ce5b3b91c3bf7e511467344a3e"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20127 Morris County, Kansas.csv",
+      "sha256": "b98974a987e698c594623b9833cde50efa89b520c0199c4c3c9d71ef1895d0dd"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20129 Morton County, Kansas.csv",
+      "sha256": "82776a5192f7377bc37a0ddb006b00067fd2cec9ff426f6fa97c606cd70c0e6b"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20131 Nemaha County, Kansas.csv",
+      "sha256": "5e1209f665ee70ca4d093adaa546761ee07023605af9222573c54b9103100cad"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20133 Neosho County, Kansas.csv",
+      "sha256": "acd7a50489d314e342ee774794887acb1fbb7d6044c712a7a123ebde5e6d8280"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20135 Ness County, Kansas.csv",
+      "sha256": "939e727bc91b2507fe6728da751da000a4d1b7b1db21d7080257a64a0410f6b4"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20137 Norton County, Kansas.csv",
+      "sha256": "a093a2c8e90052be30021b09c656cc0561666608ebd3325628f73a49fe6c93aa"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20139 Osage County, Kansas.csv",
+      "sha256": "99a6631a8403e30e72b84515bbd9961870322eb829355c31ab68e3dd99b048ad"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20141 Osborne County, Kansas.csv",
+      "sha256": "d19478d5ca343fe1a03aaa31f848324ecbd387e6b4288722657db9496bbf1a76"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20143 Ottawa County, Kansas.csv",
+      "sha256": "9251b0ed7af830741eb99cebaf5ed44e05696880cd715056ff684809d5b007c7"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20145 Pawnee County, Kansas.csv",
+      "sha256": "6b0499c4e41a45f87d1a4dcd7efd32d1422a81ea5e1a0e9901f6b0132b7f3c7c"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20147 Phillips County, Kansas.csv",
+      "sha256": "1d08270d7b4ff0ee3057901de132c9152901e37faf5b7f7fc0a3e8bf5907f851"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20149 Pottawatomie County, Kansas.csv",
+      "sha256": "6625c357a294fe2c6ff97167a326b34a4b02aac3c2b297bc8ca54505696c12cd"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20151 Pratt County, Kansas.csv",
+      "sha256": "e83b011df87f7c836954747eb74ff005143328d5c4c33b27ad62a817831d92f8"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20153 Rawlins County, Kansas.csv",
+      "sha256": "67bfed513acc9f78790ab9312ecbca8b6e975016ca3752b6a58b0d09c7cc6bf5"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20155 Reno County, Kansas.csv",
+      "sha256": "ec3d1a05ebb2bb685ef6db8318f4112d114f4a5e903980c411a7b6ffdf913cac"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20157 Republic County, Kansas.csv",
+      "sha256": "0763e1a11f93c8f1a9ce3b2d48be3ae5e5098c3cf774157e9edfffb848ef145f"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20159 Rice County, Kansas.csv",
+      "sha256": "052c97b06692860b9095bd84e08a02fe72baceafc2487825cce6613af505b31a"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20161 Riley County, Kansas.csv",
+      "sha256": "0cee0397c5b446738e66fd5eee8da798b18a31761ea42e212f49b13f663ff3b5"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20163 Rooks County, Kansas.csv",
+      "sha256": "4f8972567fa892e314fc1362e0a7ca5eb81e9dd946ca592a61aaa771eb1dc206"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20165 Rush County, Kansas.csv",
+      "sha256": "5f44544af2c85a25e7c5b4d5c185201c7226290a7e5aeb8ab0a1c736f83ea96f"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20167 Russell County, Kansas.csv",
+      "sha256": "3069c496bf219cb9030f7eff65e8c1bec4b1a8bc747a17ff160ec6c3eca9553f"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20169 Saline County, Kansas.csv",
+      "sha256": "d262b4dc7db17cb129747fa9cad1b55923e04d1d136b3b5b5645fd8c2ec7bac7"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20171 Scott County, Kansas.csv",
+      "sha256": "45d8dbd896866fa6ef91c99ad786afc3f5f3de36c6bfc78d4cbad43e4f3302a1"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20173 Sedgwick County, Kansas.csv",
+      "sha256": "e3cb0be331c2906686c8064b605c061cb1f915dce347a172b8aaef5ed74fc59b"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20175 Seward County, Kansas.csv",
+      "sha256": "6a57636acc06b8149edcf1c3ce18f934fd1f7b5490f6695062bc5afd324c950f"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20177 Shawnee County, Kansas.csv",
+      "sha256": "fc19bcd3cd00ccde394aa6d0a85c016f8cda7e062a4938d82bed631e076436c7"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20179 Sheridan County, Kansas.csv",
+      "sha256": "9ae6683911d8cb9a8976793d9269ba1871bf56218632fdb7a823f3f3849ae407"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20181 Sherman County, Kansas.csv",
+      "sha256": "cfc5157bb348dc61bc956b25e1d82a0f9ba3c9ff7859ef57c90566fa1127cea1"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20183 Smith County, Kansas.csv",
+      "sha256": "610073a6fd5487e618b740c9c2103c006b621ae40632bf94678c7e58a803897e"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20185 Stafford County, Kansas.csv",
+      "sha256": "0d891a51a2c0defc4d98e27761c521e77c78be298551f5f3b2fbe209953786a7"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20187 Stanton County, Kansas.csv",
+      "sha256": "bb184720f196a583c776b5b1d55a4402d04c82091a2a455af0cdb9b90bdf2166"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20189 Stevens County, Kansas.csv",
+      "sha256": "8c006cab8c6b87298a94be772ee3c33668d9e7e639be22ef945d6065fa03c8c2"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20191 Sumner County, Kansas.csv",
+      "sha256": "d524528b95b98b46b758a69ab211ac56b1c9afbc28d60119445d005fc2802103"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20193 Thomas County, Kansas.csv",
+      "sha256": "6f7611cd6ca8ce64d837dcbf605deb77882f5f954cfbee3b68cb9fac36507db0"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20195 Trego County, Kansas.csv",
+      "sha256": "c7ff00cecc8f24a6ab5fa3f697ae7d09316d09eec23bea1781d75315ca34d286"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20197 Wabaunsee County, Kansas.csv",
+      "sha256": "01123adc5819876d95fef9d759a2a9a89121b0fad666b8c6249caefc7c937baf"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20199 Wallace County, Kansas.csv",
+      "sha256": "89c09888102d145354b74f235eb1908f827ed7f6554ecc226e13439a4e19e109"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20201 Washington County, Kansas.csv",
+      "sha256": "d41e3f915ad1960084d809829a4962d63fe9ca4ce28b0caee2b88e516a394611"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20203 Wichita County, Kansas.csv",
+      "sha256": "54a554b609dd320225dc92023ca0e870379eab7d60f332a16a3682953b6d31a7"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20205 Wilson County, Kansas.csv",
+      "sha256": "8abf7b09f8aa16aaa0b2ad83fe5c2607a2900562413bcf074300bf17ac0d2d40"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20207 Woodson County, Kansas.csv",
+      "sha256": "9b94a440a6191cda9389521c2195c21a9c650580321e8e96e492ad4706b7e935"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 20209 Wyandotte County, Kansas.csv",
+      "sha256": "7bd2966cf98284883fc3357ac9a6d0dad8f568698a26dc3c644c74ddb087782a"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29000 Missouri -- Statewide.csv",
+      "sha256": "1d9b69708ee91296bc91e586e9fd89c58b79382af753f5d44ff2c41b31195d68"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29001 Adair County, Missouri.csv",
+      "sha256": "49c677f0033969d629e00fb5a5083969889c7b833db99338d7f0d24d1676983c"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29003 Andrew County, Missouri.csv",
+      "sha256": "35ada5d7a0e7cbb1d1bfc352535de52816a2997ee49c29767f507dac570fca65"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29005 Atchison County, Missouri.csv",
+      "sha256": "1761aa6835d1d825a385bffa46025d05399073340488d3e6bb00af658b21d4fd"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29007 Audrain County, Missouri.csv",
+      "sha256": "976adf11048adb3b70d9f8539dfb4f158bc5c81ce32cbbb8dfeb5325ee570a0d"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29009 Barry County, Missouri.csv",
+      "sha256": "a5df12ddf0c9d16a1be0e19ae9cec9cb007d5a75ee1413fb8c0cd9ea23e76b1b"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29011 Barton County, Missouri.csv",
+      "sha256": "499ee9de5b40a8d2293a0258d4dbe603605571c7bd76645c090d8ef028438e62"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29013 Bates County, Missouri.csv",
+      "sha256": "aceba37a0dcb4c2097e6fdd7cd93d5d7467ca626933afa6f0863ea43f361aff4"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29015 Benton County, Missouri.csv",
+      "sha256": "e5a211593b4d16b87fa6398f70d830dc46ef5c4d39caed46ec185467085a6714"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29017 Bollinger County, Missouri.csv",
+      "sha256": "f1c5908a11b34f0dedd244c0b8b00f775d4e2fd76e44675018efba2a25675bea"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29019 Boone County, Missouri.csv",
+      "sha256": "21d54417114984779ff8c095cebf05fe4682d3605abc66b7269a3bfcdd3f30c8"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29021 Buchanan County, Missouri.csv",
+      "sha256": "b66ddb79a0e1f78725cd1779dec39c93070940b878d00e16f3d42737f476ef70"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29023 Butler County, Missouri.csv",
+      "sha256": "0f2095707afb3abc3ba1daa3f7565dd9f3ab50327e5745744edb7dd547bbd09f"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29025 Caldwell County, Missouri.csv",
+      "sha256": "633ea8ce446b765c3ef85fb5f99719a817e76e75b07e80f8265757a302bedb2c"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29027 Callaway County, Missouri.csv",
+      "sha256": "803f82d84d3c5c56c0e1a8d977403d885961cc2c8e24e465a8320323ac6bf5a6"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29029 Camden County, Missouri.csv",
+      "sha256": "588b98d2a187242f12c3a908dd59a703382cdc21d242b813b02868b491958ed9"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29031 Cape Girardeau County, Missouri.csv",
+      "sha256": "ae0a8c8792637b0edf8b4dc3d39a77d85e3faf415e5f6f15ea29ae1f111cd5df"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29033 Carroll County, Missouri.csv",
+      "sha256": "0c7ac276fb810b36b7fec2ef6388524feec02a4bee7dee45144fbc1467e77b9a"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29035 Carter County, Missouri.csv",
+      "sha256": "677f1a9b936b9afcdff5ce12d7e843ec59cc1bf4c2a43594ad8a9d84874221ac"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29037 Cass County, Missouri.csv",
+      "sha256": "7f0daf1136798dd41fd9dc4c6a7cf05cc776e3341cc53c979126c22b2923de4a"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29039 Cedar County, Missouri.csv",
+      "sha256": "2850b9b184b49fce44a84eb8683b35869a67b27544e9ac1a34897cc010eac857"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29041 Chariton County, Missouri.csv",
+      "sha256": "f13a25aea39186e592e40401e9554c5b96e08c6c7532c96fa356e2104a85cb78"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29043 Christian County, Missouri.csv",
+      "sha256": "2de41f684023da25a7a10bd376d629be6ef6a50ea3a803b6f97bab7601373cd8"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29045 Clark County, Missouri.csv",
+      "sha256": "c1a17b3086e6c4bdc5dd295b3a941a21e9059eafebfae65ad75aa61bdecad706"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29047 Clay County, Missouri.csv",
+      "sha256": "f31d3f403fce0e1b3c952f9d81e38e74bfbbc550a13fdb55a8ccdb71619e553d"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29049 Clinton County, Missouri.csv",
+      "sha256": "5e453f6bdc10d538d702866922fe08610e127d426bc10db82ee78041a1040170"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29051 Cole County, Missouri.csv",
+      "sha256": "15b979888de3a76cf7e0dcc6a518f66946c6199782a1f8166f94b37be096f153"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29053 Cooper County, Missouri.csv",
+      "sha256": "fb89f0d5866d87bed012dc971f606a5daeba788260dc8064826b02ca467d3555"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29055 Crawford County, Missouri.csv",
+      "sha256": "b773172142e547c3ad94567d6ba0c3d76e33b26b756079a4883a9847d94ed04b"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29057 Dade County, Missouri.csv",
+      "sha256": "adeb7d56e9693bc11a0267d4eb8b2243f6edcfc0ecabbea1ed265ba09ba02e43"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29059 Dallas County, Missouri.csv",
+      "sha256": "2c967fde50718fcba45f060c81fd0138f353c56b303775500e2b1da6f8bf9b5a"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29061 Daviess County, Missouri.csv",
+      "sha256": "bc585163f4b499a50a8e6979b89c9198c8117ae790639731252143fbdc55c12e"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29063 DeKalb County, Missouri.csv",
+      "sha256": "4f26e41670aa511e348b38c69fb00c0dd05a840ad523c5bf6d39dfc916984f44"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29065 Dent County, Missouri.csv",
+      "sha256": "d8aafc28f543e6481429e6b79d0ad83e198d07cfa94f7b8940ace1eff8ef71d7"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29067 Douglas County, Missouri.csv",
+      "sha256": "f740016812fe7c22764c339d29598c827e217acc38a68fa9ad9fba948627afd9"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29069 Dunklin County, Missouri.csv",
+      "sha256": "14fb6955f6de2c821815be04f015e203b8c41d491575918d9e8782f6ccb913d1"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29071 Franklin County, Missouri.csv",
+      "sha256": "971733bf3d46ce3e175f2aa62cd4e52adfdbff3b7db3e6f404d31ede01ab7a89"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29073 Gasconade County, Missouri.csv",
+      "sha256": "50eb0ae195b87519ffb03bcf59742108ca40c42a4c31f5738aeda83c1f38fd24"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29075 Gentry County, Missouri.csv",
+      "sha256": "76290c32cf6e33b91220b33e98dd481248fe7edcd7ba375e0671338e04f90f0c"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29077 Greene County, Missouri.csv",
+      "sha256": "f8ad2ea8a1206aa900db4c544d02f41e51c730d01d53f16988449268fe934d21"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29079 Grundy County, Missouri.csv",
+      "sha256": "40e311aa6a8631b3e078464ea1ebc2694cd8525f33afbbd4dbbbac488631cd03"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29081 Harrison County, Missouri.csv",
+      "sha256": "fc9575f88f73379b7c51ea010b57a2fbc036bf1e0216e9533d4787f3d278587d"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29083 Henry County, Missouri.csv",
+      "sha256": "41277c33b4e72ddfa739fbbb02b9dddbb2a4a0f8053a4c1b31022541b4ac43b5"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29085 Hickory County, Missouri.csv",
+      "sha256": "679eff49fb7ce7b6afc49ce95ccb715405a71c691ef35af3a286b79d7fc78941"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29087 Holt County, Missouri.csv",
+      "sha256": "901da6edc79190bb3481d24977432b93dcc8b3262ec800e48b1e92dcd5e9435e"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29089 Howard County, Missouri.csv",
+      "sha256": "752e9f59b7aa4c13022c1e9fd22ba477960fb0b41c3c8b41bdcff63768b74abf"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29091 Howell County, Missouri.csv",
+      "sha256": "b11232d9469a644d9bd2a253fe82e71f9d163008910dfa9cd1721bfc9f0d1c40"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29093 Iron County, Missouri.csv",
+      "sha256": "814bd5f272b2c7bf0cd09832fd099594e149a0fa9d8226fb834035c77b290e08"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29095 Jackson County, Missouri.csv",
+      "sha256": "6f136260fa4a83a78b99d0bfece4f5c4a4bcf75bc45d0c1b8c2b0d87ad07b491"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29097 Jasper County, Missouri.csv",
+      "sha256": "fae613efb7160e9e36deb5ff6b22d79ca9aa0ac12cca32ec9d108fc8135a5d8c"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29099 Jefferson County, Missouri.csv",
+      "sha256": "c88f8b31aa1fad1391d158c75f3a973eb367c6caacb9e927839f4231689cbd39"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29101 Johnson County, Missouri.csv",
+      "sha256": "260e917562adf3c7eb955fb58b62832b92df5a30449807a2818ca5b31f4f9118"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29103 Knox County, Missouri.csv",
+      "sha256": "663a7c3895f6f0651c8fd869c4d1c8134ec636f96508e5bbffc3930f08fb0fc8"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29105 Laclede County, Missouri.csv",
+      "sha256": "e4697181e9bcc8ac82911ac88f709b1d42a4902c7bb7f20ff137f035cf33ceb5"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29107 Lafayette County, Missouri.csv",
+      "sha256": "4a1524494550dc2fb35380c58a6a8182897a49d5ddec6f8e0aa6b16cd794bb45"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29109 Lawrence County, Missouri.csv",
+      "sha256": "fe99dc40cc0b0d3817738dea4721dee95d0f79dce1d23f24d48a1ffcf7b3df70"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29111 Lewis County, Missouri.csv",
+      "sha256": "f2925c6d509e3e5996fa168d7248c0c0a87be9212348844481f91fa377e2c5d5"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29113 Lincoln County, Missouri.csv",
+      "sha256": "0f4bdbed9595832f69a144869ab32e25e5780d71f8b0fa1fb33b533fceabbdfa"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29115 Linn County, Missouri.csv",
+      "sha256": "5ba94f479647f29bbfe428760e5e9992070051df7be7a6f509675f3d656bb1cc"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29117 Livingston County, Missouri.csv",
+      "sha256": "9fea95f36c2947c2535dbd93ad891edb13fdeac4c452eb3636cb3871fe119677"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29119 McDonald County, Missouri.csv",
+      "sha256": "df45d87f50999f59ee91b74748531b7425c4144ee3416e0a09e80cc9a92a4968"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29121 Macon County, Missouri.csv",
+      "sha256": "32462765e8d04913862bc3a9569649874c7af32ce4a83ca1456091d446a7a91c"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29123 Madison County, Missouri.csv",
+      "sha256": "0978d5e91b4f4f08ce713864e91d9d49fdaa2307c92579d90bac9eb688c3b91b"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29125 Maries County, Missouri.csv",
+      "sha256": "f82e97275c7b96e3548f44832672399669608e8a96882c48c684a5a0da0ad457"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29127 Marion County, Missouri.csv",
+      "sha256": "3b628a08ef96afd1467ff65707cdb9fe33ce0ac68eb0ec6e372fe31320e9cc9b"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29129 Mercer County, Missouri.csv",
+      "sha256": "c4b06564c03770db9d9ae9760fa1f380a80a8b11b59c581e6ad095c91e413c7b"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29131 Miller County, Missouri.csv",
+      "sha256": "11651617cb016a93f92f5839c6f1ac6dc3c3b52da7fbfd32fa7e5ad0320c5464"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29133 Mississippi County, Missouri.csv",
+      "sha256": "eb82ff2c90f164946a1f446cfb5cc095a7079025d3f8a24cf33aa0a54b00bb7d"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29135 Moniteau County, Missouri.csv",
+      "sha256": "6e0752e2e413cd159276ae9964067bc5df3349d976334a95db10c2c790f9f8a9"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29137 Monroe County, Missouri.csv",
+      "sha256": "8be9e8d52205dbbfbaf13ed181c29022c5d3c07d54db4740be911bc6399e893e"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29139 Montgomery County, Missouri.csv",
+      "sha256": "a302ddde6cb2fc4335f07608a81b8bbd8bf1a70ab1378f5fd14fa9b5096dc8c7"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29141 Morgan County, Missouri.csv",
+      "sha256": "32eccc3526fbe62cc86dd12877c381e69f88f3601b19783720e59e48c86aeee0"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29143 New Madrid County, Missouri.csv",
+      "sha256": "0f453e7ab2af056ad9a65c339ea07c816f312a3bac96ed15dbe571093eb11339"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29145 Newton County, Missouri.csv",
+      "sha256": "7009d3d439aa633bbb2c57497f413cdbf04b6154fd58af25b3feee27f5c59fca"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29147 Nodaway County, Missouri.csv",
+      "sha256": "a2500aefffe03fe55e06b56eb0912597690287b877e9b2e4afbf1c6f2a2a9c8b"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29149 Oregon County, Missouri.csv",
+      "sha256": "f6b8981acf3ec495ce65f3de31f0407bc0b988e7a615fc74b19d55d3ec6923b3"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29151 Osage County, Missouri.csv",
+      "sha256": "f07702f6fe6614092940ac581d8126a0b9db27c758628b1709cfe53fbd987a63"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29153 Ozark County, Missouri.csv",
+      "sha256": "c62e632721cf4ef9eed119a78394c8a2d648ac6f5a538bb13dfdeb358392e6f4"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29155 Pemiscot County, Missouri.csv",
+      "sha256": "5aa2c3f7a3bce8165b01af6a2216f7d927143ab3be21a138d7447c9706f4ed22"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29157 Perry County, Missouri.csv",
+      "sha256": "71324e56aa24b86d7f4ff0100512584df458ccd439926c9cd5b47350683522d3"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29159 Pettis County, Missouri.csv",
+      "sha256": "ecc04f3235ef3a5cefe6c762444bf0afa823c607a408cb3a6ae859c6a025920b"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29161 Phelps County, Missouri.csv",
+      "sha256": "2aab34d4253aeb3dc98d2dbbe9be680ec27a6682acb9fda6c07af2f4071a601f"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29163 Pike County, Missouri.csv",
+      "sha256": "6e07ad53ed292d9ca9772c2d6d1484652ba89a2685b09388eb689bac9e6995b6"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29165 Platte County, Missouri.csv",
+      "sha256": "3472c50bbf2fd290ae5ad75d8c0156c0065bd5295570d0bfb41eeba79fb7b6b4"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29167 Polk County, Missouri.csv",
+      "sha256": "21490a82706d4d87f9af141b7371f62cf5f4b6c5ae00db9d3a91f57ae550526d"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29169 Pulaski County, Missouri.csv",
+      "sha256": "88f90608891382f4800ce0bad68219174b35245faed5916dad2d7ae52e67b7f0"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29171 Putnam County, Missouri.csv",
+      "sha256": "4c2bb633243c989eb3049a4cb0db6a5411c3a0e5ed8d2c2f31cf43aba4670973"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29173 Ralls County, Missouri.csv",
+      "sha256": "292fe00074c7437f2d64ed0bca8915e4cd1d7a5861209f44570ab7119a4d2c47"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29175 Randolph County, Missouri.csv",
+      "sha256": "e889432d294aab5d3b446345f9b56af5f2412fa395f1e279fdc109ee99788f12"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29177 Ray County, Missouri.csv",
+      "sha256": "e5c47f9b2ab88c9bc2f288510685ab4e2847935037216f5066f8b8d5fbe858a7"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29179 Reynolds County, Missouri.csv",
+      "sha256": "b951706107966b503970cf3ff1fe92913e17803118515464493dfc941cc978a2"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29181 Ripley County, Missouri.csv",
+      "sha256": "22bac9935a584289da609b0c34a669e193fa1af12112fa7f4d47f5f36f910fc5"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29183 St. Charles County, Missouri.csv",
+      "sha256": "9bb1c632bf783c1da14a3f97f8ef2afe7c43d6e83c787c02975966def4eb2e68"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29185 St. Clair County, Missouri.csv",
+      "sha256": "a05e648b7daa1a64742a4974548054c404d84ba2b21e14f80900df5bedff71ae"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29186 Ste. Genevieve County, Missouri.csv",
+      "sha256": "2cc1d25d876d0da38a6e3131a980632ccda62c38b281078ec0bbe08fc1a37270"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29187 St. Francois County, Missouri.csv",
+      "sha256": "30f02a388ea0366f27d51ae60a0d92cc1d63763f2bbf103793342262335741c1"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29189 St. Louis County, Missouri.csv",
+      "sha256": "9ccd9761f26cde33e4cd6b8d9c22661285cc1d97b10be805d18b0327bdda47fd"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29195 Saline County, Missouri.csv",
+      "sha256": "36c9ed6eed331c0c2a453d1db8b55c91b66b105ca85ac6381da8aae76e9d5f89"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29197 Schuyler County, Missouri.csv",
+      "sha256": "e900aa33ae0c94d0505e8b20bec20c24d1a417aaf2fd0ef49f12a7a2d6ce876b"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29199 Scotland County, Missouri.csv",
+      "sha256": "a335b0329a9d626f0dd401c1aa0e05e057469a8eac8543a9ca9da1eb78cfa529"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29201 Scott County, Missouri.csv",
+      "sha256": "a16bb98e4e68fffeacc06f769814c537928b296a2a90ec307ba0cfd856d1be8a"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29203 Shannon County, Missouri.csv",
+      "sha256": "35f19e520802d1790d184884dac1e40a49d8526d5ff8b0811bcf6caff9a18070"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29205 Shelby County, Missouri.csv",
+      "sha256": "24d1f7e718bb1556ea5cb008f2cee7bed460858b21afcca8356024705f8a4a1b"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29207 Stoddard County, Missouri.csv",
+      "sha256": "fea1c4d18035d127d7c19390af4a90ac0f6c372ade92e1d4173b5aa6cc3036d9"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29209 Stone County, Missouri.csv",
+      "sha256": "9a70141874886f84df669e97a22ae52df8021f10303f01e05aa25e3a8f6d6e18"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29211 Sullivan County, Missouri.csv",
+      "sha256": "57c3092ce9a4ff4c27f541b76bd1138310054b4559ebab38108a18fc17b51012"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29213 Taney County, Missouri.csv",
+      "sha256": "f11f5c5a161ded9d73bf529e31a6643e9b5b8a684b8443dc0b0529c43a54fb4a"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29215 Texas County, Missouri.csv",
+      "sha256": "4ec2b685e80f81af94f87ae0fe410019256164ece0d3dcc1287612ec2a0f8f01"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29217 Vernon County, Missouri.csv",
+      "sha256": "c9ff26bc99a68f71ebfae8b1a4ef328170873991e517073cc57f2f94fd5854ad"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29219 Warren County, Missouri.csv",
+      "sha256": "0a699f4ffdf8e6aeffc181d41f1eb466457c4b735a32d748655cab5cc43ac2b9"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29221 Washington County, Missouri.csv",
+      "sha256": "b33c1bc895b252e78cf1dcd79ba0932d0ac05dd4e11fa08135a85aa6b339ff0a"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29223 Wayne County, Missouri.csv",
+      "sha256": "a6eb4d4787eec3abb1bc72e586b987365839d6e6f951706016ae8fad070be950"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29225 Webster County, Missouri.csv",
+      "sha256": "a4b78f0ed7241f3edebedfc7744b199f532db3536a065065d0d8a560e55c190e"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29227 Worth County, Missouri.csv",
+      "sha256": "e30f8f1a1a8a3fa28e4c6259eae924578b6390196cbc5cd2db16db97c05e258c"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29229 Wright County, Missouri.csv",
+      "sha256": "f27ceb3c4d58361723f5aac1356a0db9b5c40447f0249447cd8b28a7fe86adb4"
+    },
+    {
+      "path": "data/raw/qcew/2024/ByArea/2024.q1-q4 29510 St. Louis City, Missouri.csv",
+      "sha256": "6ad81e3e80edf28fa15b22e05e6e99ca8559684d56fd871b8cdbc3f46ef648dc"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20000 Kansas -- Statewide.csv",
+      "sha256": "ee8f2f1da181cde40e7d60f1144302abad372134b460ac9e40a1ba7ad7a328bd"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20001 Allen County, Kansas.csv",
+      "sha256": "a92fa003ac2898eb4c306e8849e5e40b36cc20fefdc0c30401a54c55c46ac13b"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20003 Anderson County, Kansas.csv",
+      "sha256": "b5e496fb3d29b2a8315691a5b9de07c21378d6f4b86d544a37dea248b7e20dff"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20005 Atchison County, Kansas.csv",
+      "sha256": "c7cbf88dc61500fd1bcc7098969d3e37342cfcecdf06b07e284d9fb76deea905"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20007 Barber County, Kansas.csv",
+      "sha256": "956f3d4bd2840da4de5f61fc487f87f8473a3f5ac659ba2d965261fa53c13ab6"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20009 Barton County, Kansas.csv",
+      "sha256": "f668d3d486a6bd9f8f16aef554e9b1da1b5aebc8f6446a5941dd7014d4b313c2"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20011 Bourbon County, Kansas.csv",
+      "sha256": "d67eafee35234a6000b1642ae4f3545a49def9c33a54c3697bcff54d2d6426bc"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20013 Brown County, Kansas.csv",
+      "sha256": "7d92817ab68bbadd2dfb44322e3d0adfed07db7bd2ae07808575f75e63ae0d3f"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20015 Butler County, Kansas.csv",
+      "sha256": "19771638b454b9406e77c3cd9b5b896f4f12b0a960310f6f793bc1c4163fe960"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20017 Chase County, Kansas.csv",
+      "sha256": "e65ae995f225c6bf55614ea143c09926f827f4c97f3e1a0f33985a62279041b3"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20019 Chautauqua County, Kansas.csv",
+      "sha256": "3672e4f096de8c25efe72a0cac18f88df9c045f06ea5150eedb5ebcb6b69b8a9"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20021 Cherokee County, Kansas.csv",
+      "sha256": "dc61578e89599fe2dac8198520761f41aa1e95173de36cbc210eb6323ba997a2"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20023 Cheyenne County, Kansas.csv",
+      "sha256": "5981d98df9d62a71f2a925f2b932898010de50d214058496c33bdcf82a6358ed"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20025 Clark County, Kansas.csv",
+      "sha256": "e516a9d058960d1791ac2b87761b179dd358aafd099503ae5d72b72ed7256b03"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20027 Clay County, Kansas.csv",
+      "sha256": "718b8183eee1a152b8edd1b30b1bd92df7fb51f02c6439d4184d3fdc355689ca"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20029 Cloud County, Kansas.csv",
+      "sha256": "db4bca2e4bf931d6f6cda59a485e11d859f9c9a585f4f26057a7dacbaba38551"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20031 Coffey County, Kansas.csv",
+      "sha256": "62b7d04ee5b2a999e870f9b6509d2ae7a98759e4b4a166a1b3a6bf48e85e48b8"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20033 Comanche County, Kansas.csv",
+      "sha256": "26fd55bdafc229dad3119f01451a77a4d62146742d9276c564078e173153dc8a"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20035 Cowley County, Kansas.csv",
+      "sha256": "b36d495ccc28bb200d5f9031bb8917d70131e76f4b1ed153324117843bc9173e"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20037 Crawford County, Kansas.csv",
+      "sha256": "b7f565524193a8542f469df69550bb68f06467f33f0f8914ae61249446181d6f"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20039 Decatur County, Kansas.csv",
+      "sha256": "cc9084c9b2769c4fb5943249b8b4c000f4efc95fbe7b61ceb7eee690269ed030"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20041 Dickinson County, Kansas.csv",
+      "sha256": "d4b5adb7c8af7d545de1426f845ae42191072449e6ca347753092c8368608126"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20043 Doniphan County, Kansas.csv",
+      "sha256": "8ee331a21ba2b9879b947ebc84b83723a8461a9110ea1b625066554cd200220d"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20045 Douglas County, Kansas.csv",
+      "sha256": "49ecef55170a7575e60083c3305d942acb7de926447d6cc139736d211cf5ee2f"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20047 Edwards County, Kansas.csv",
+      "sha256": "56b19032397b4301de6e9795d8041eeabe8e7c9694df324a9451e21b74aa6a80"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20049 Elk County, Kansas.csv",
+      "sha256": "73b00a01c35d52ea88b3a262c55b3ce651ec4d0d4dd98623596e303b355f3ea6"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20051 Ellis County, Kansas.csv",
+      "sha256": "fabec711b28c4e0d17207de906e4a1a17713f25f40bbabf8e03ed519f096528e"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20053 Ellsworth County, Kansas.csv",
+      "sha256": "ab898d92989d4503a0e514427cbb62aab035fe7e1bdc51984b58b4beeafe98fa"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20055 Finney County, Kansas.csv",
+      "sha256": "287417f51c15731836bea9f572bd95074ce1b5d98af4abfdd18c91b41475f730"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20057 Ford County, Kansas.csv",
+      "sha256": "0da80adfbe3b3814007055cbe65b05e72acde45e8ef88e4884418d0c2d0e143f"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20059 Franklin County, Kansas.csv",
+      "sha256": "60b672c4fd0c6d0fea5ae4befb232a2e99cb93903a9213b521f5ef7d0d1e940a"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20061 Geary County, Kansas.csv",
+      "sha256": "425bc07f47094c8de7840fe996a1025ff0cefed788427e3e60aed7d0b59ca660"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20063 Gove County, Kansas.csv",
+      "sha256": "29df4d0c2e46ebe7a02ce9cbbb29a7946030bb5e668bef80ad376179cd686e6a"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20065 Graham County, Kansas.csv",
+      "sha256": "d844e4041a36ae139aab170701b87f1b0e24dee3b4f278cfb4065a4068e2f6aa"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20067 Grant County, Kansas.csv",
+      "sha256": "ec64974560887b71952c43bb9fce7c333b7a59aeb6e428624653e81f79c19fb6"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20069 Gray County, Kansas.csv",
+      "sha256": "a5312e6adf4a2e36fa68b1889d54b923338ab4ab853c86f84bbf27c2c48d6f79"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20071 Greeley County, Kansas.csv",
+      "sha256": "1f1ab821e8942f737bd314c232f240d8a18569af16b57077459db11a37ba59b1"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20073 Greenwood County, Kansas.csv",
+      "sha256": "91b7a259e231de6f7e5a386b7934fde757a3c2d848765c61f9d7760d8d4561c5"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20075 Hamilton County, Kansas.csv",
+      "sha256": "8d6af6c2a93d284b72739d0817dad66d97ea2213542e94c0f2622f30d7cecd4b"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20077 Harper County, Kansas.csv",
+      "sha256": "fdba3d914b411cec938ce85b44d2f18bcfcc564a53c6d179ccf6a9fc59b03d9f"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20079 Harvey County, Kansas.csv",
+      "sha256": "173f400c810f8542fc6b4624c7ade94e5aa963bdf85c95698e5148fd04d6609b"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20081 Haskell County, Kansas.csv",
+      "sha256": "24b0ab7af642fce068d86e824779bd7646c9fd28182b97d6a84a224414eb7eb8"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20083 Hodgeman County, Kansas.csv",
+      "sha256": "bd0edb65ede68ac5e7c8d035d161df708ad54b372404281db7539006c37735ef"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20085 Jackson County, Kansas.csv",
+      "sha256": "20615f08b15a996286551e17a6178e62f548fdf462247dfeb167deede0469388"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20087 Jefferson County, Kansas.csv",
+      "sha256": "9935405fc61d484206166965b1307709419bdbe3ef3191f15f838e9cc5f25ae9"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20089 Jewell County, Kansas.csv",
+      "sha256": "7048014dbd15ee45fd76bd849dc29ab6f6f93a0dd250f67122b8449033b0c731"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20091 Johnson County, Kansas.csv",
+      "sha256": "916fc2dfd5586f7005b09aa74b2ce3dcf5b3308680d1b62dfc568257f5d35492"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20093 Kearny County, Kansas.csv",
+      "sha256": "a2b8004a68b2444aea7c1427a0b00d5cc2e09e62329999f2de09509033ed7207"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20095 Kingman County, Kansas.csv",
+      "sha256": "19a56085dfcca4410b8f53825f884d86da7a77d91c833432b6d7369e29eb5d9e"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20097 Kiowa County, Kansas.csv",
+      "sha256": "b35a9361caefae35adbe30fed153b02527f665ff204368e37039d7a75449e862"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20099 Labette County, Kansas.csv",
+      "sha256": "81c3cc4e513f9105bb5857e27455ffb61dcb59ed86ba201dbd29837ea0f6c646"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20101 Lane County, Kansas.csv",
+      "sha256": "7d630624511aa33ef7e232029ff979c620da4ceca94023c22144c1c067803564"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20103 Leavenworth County, Kansas.csv",
+      "sha256": "1e289ad4acf39cb62ee1e1ffdadca77c6b718e90ed371b3ec507e11103c67d91"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20105 Lincoln County, Kansas.csv",
+      "sha256": "64fc90e9c856742348059fc1e5cecb4c2e08de734525b7e853cc5b70a062b929"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20107 Linn County, Kansas.csv",
+      "sha256": "34cabc08f411cf03cc71f73bf28d82f25dfca6ba8d357945bd561576631a3a5f"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20109 Logan County, Kansas.csv",
+      "sha256": "9b750a2fd01e219424a071784cf6ab0a14a35592877054d86bd87e0556594ef5"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20111 Lyon County, Kansas.csv",
+      "sha256": "55db0d10aafde7434c6e57616a1eefec5890e825335e3fa8ed1d4b69faea7748"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20113 McPherson County, Kansas.csv",
+      "sha256": "30db7758fa3d734a4891adb4a596efdfc31d1295b7d6f1b29b50822f44035ce5"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20115 Marion County, Kansas.csv",
+      "sha256": "021cf315d434dd5126965584396ac638de26b4536ef325f746885c1334c48710"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20117 Marshall County, Kansas.csv",
+      "sha256": "b3f6310610b434ff5418e0e790dae67394a761ccaece02358c362643b613df6d"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20119 Meade County, Kansas.csv",
+      "sha256": "c490815b35dfd18ed704ac21cd492640398d04d572bfc2eb8fbb47f79e441789"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20121 Miami County, Kansas.csv",
+      "sha256": "21f1c5dc9fcee3141840bb48b7ddf41e09c058d01604d8b444d7994b88e15e1a"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20123 Mitchell County, Kansas.csv",
+      "sha256": "53725c695b11282cdf2e999f6a61ed25dfb5fdd2748caad8de9d7bf089386fba"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20125 Montgomery County, Kansas.csv",
+      "sha256": "8053920ddb6d63a54dd713a66ad621b9f78ba066adb02f37852b04d366bcc7b5"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20127 Morris County, Kansas.csv",
+      "sha256": "a8c17e509f1cce0b7c9d88d10dc38185365c22ab81ac650db0162a883ce9c94b"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20129 Morton County, Kansas.csv",
+      "sha256": "11a42a130fe76fcb876f179d7193e785918d982bed56a00ebc4a7b703a6e3d82"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20131 Nemaha County, Kansas.csv",
+      "sha256": "1a83a26fccca5738c123d032506f03f0529ea4e0244b5dca06d4529b092d7696"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20133 Neosho County, Kansas.csv",
+      "sha256": "0bbc26138274f4faa7b76b7b26e4892eb84231e5fa857b849b00877e8eb7a4aa"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20135 Ness County, Kansas.csv",
+      "sha256": "0cd584abac7c32b2a4f84b6cd6d716bb74dad90318c081dc472f8bcf817311a5"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20137 Norton County, Kansas.csv",
+      "sha256": "455dc516af5b982d158529c6ba83077f05c48a0d83db18347a158909137ff8b4"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20139 Osage County, Kansas.csv",
+      "sha256": "77ba873c205abcf47cbc7963ba1d89388ed0cc203dd466cef8e98df46c3d742e"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20141 Osborne County, Kansas.csv",
+      "sha256": "0795262a315ae168518fcc4260cf4ca99b0836e8719d8c14be87672068e0da19"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20143 Ottawa County, Kansas.csv",
+      "sha256": "8c0718d78fc4b5c22ac44b16a7685f4dc1df1439751006c4bdbcf501179b2297"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20145 Pawnee County, Kansas.csv",
+      "sha256": "3806490227442c74be825c7f727287d2e45cd77eb7f7eeb65cf47cbb19d93497"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20147 Phillips County, Kansas.csv",
+      "sha256": "e863527290fc20dd3aff79b5558145d83f01ed0fa142748e43ba59a606c81e4f"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20149 Pottawatomie County, Kansas.csv",
+      "sha256": "f58ad1b8f971a7c690d686edc76a250546d4a8fe8c7cf22ada594f194a0efe12"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20151 Pratt County, Kansas.csv",
+      "sha256": "2aac0596138d2adfc84ce82a343db7d08b39c64eb83f0be162fc323983ae217b"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20153 Rawlins County, Kansas.csv",
+      "sha256": "18f6594db11c35ebb0987a3bf2697851be3fa4fc712a39f05177a7ce6d76c736"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20155 Reno County, Kansas.csv",
+      "sha256": "d91f36d2b803decef8ed0f2fdd63362847201a7f7590248dd6258adb32bf3bf4"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20157 Republic County, Kansas.csv",
+      "sha256": "54233e09f12b5f93db8f4f76312bf9f229cf0eee5b7e956c0efb3715acece7e0"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20159 Rice County, Kansas.csv",
+      "sha256": "914c1ea6ffe61d46aed254c0cf3fee56f34f485fae081524b653292755b6489e"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20161 Riley County, Kansas.csv",
+      "sha256": "d8e91d7319f27e199c2e603d9f3d86d15b96a64ff2292d9f6153a8a99dfe9b5b"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20163 Rooks County, Kansas.csv",
+      "sha256": "86f29d37c84e9bec7d989fcf09e25f2890a4753f5957b0c9f8e8361cffb94fdf"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20165 Rush County, Kansas.csv",
+      "sha256": "6890b43574c95827931c3341060b685c73758d94f0ad0be49d1a4d8a90e54c11"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20167 Russell County, Kansas.csv",
+      "sha256": "d8494e4aee5ebf6d2b7b6ed6aa42fd095689b0ca4896a441225077a6bfb93d70"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20169 Saline County, Kansas.csv",
+      "sha256": "884aa7d80513367b8e331184cdadfb10dd4a00b208dc87d4710f02e0e813aeaf"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20171 Scott County, Kansas.csv",
+      "sha256": "088dc977fe6c4c23a26137b73e55b86f91f7bd1f72919864123900327e5d4688"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20173 Sedgwick County, Kansas.csv",
+      "sha256": "bd5d02ea1dccc4f4541e60ceca6bf686f7ca75a7d83b848e00ea39cb8354d9aa"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20175 Seward County, Kansas.csv",
+      "sha256": "9659f2dbfe17497a13c8c6c0ee1d17421891d2667f4b635444ef9b4f0be949ec"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20177 Shawnee County, Kansas.csv",
+      "sha256": "8937328a27ae47834b3dbf3fc56493352ac127f01b46ceb7f8e7386d293ad3cb"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20179 Sheridan County, Kansas.csv",
+      "sha256": "8e778102c76ec80abc637942206bc1a519824a646a6bd4aa9bfecc2bbf4b3ffb"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20181 Sherman County, Kansas.csv",
+      "sha256": "6cd5ee9de341e61a08aac8c74354434be379795f181ed5c084554822d79458aa"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20183 Smith County, Kansas.csv",
+      "sha256": "0497cbed30fa5da38d90833e3dfeff8b06cab77768d1bcdd2f32557c094851fa"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20185 Stafford County, Kansas.csv",
+      "sha256": "607f7ddda4b4cb4edecab8ce7d5044494157372e38248960c615064364c4b292"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20187 Stanton County, Kansas.csv",
+      "sha256": "4c89b14ad7509bf88e0e0826bc2c246dcd28af24f9bdf134f6bb4a086f96910d"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20189 Stevens County, Kansas.csv",
+      "sha256": "c4d17e2f75b2d4864d848b0e8b9688c0aea99a26df0e5d9ef3313e5e32ed266b"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20191 Sumner County, Kansas.csv",
+      "sha256": "48e1fa3a0cf686beaa195687dfc018a2bcac7ca01c5f7db6e08fd1392d6be511"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20193 Thomas County, Kansas.csv",
+      "sha256": "d1cfb7cee35107c340aa991076b2ee17c03869f8a0fa9c806b92eee18e29f943"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20195 Trego County, Kansas.csv",
+      "sha256": "c1063b477a4c96b9bd6ad08743c82125c774db3814d9c56b7465bae78668366e"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20197 Wabaunsee County, Kansas.csv",
+      "sha256": "3ebada332df811323100d914a78b3d048e65dcca7b9621204f0a25e3c5479564"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20199 Wallace County, Kansas.csv",
+      "sha256": "d26ece158da47069ab51c7e1ef164deeb934fd1df0ae519df237d17726bbb29a"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20201 Washington County, Kansas.csv",
+      "sha256": "cdcee92155e653d1697080b8cfcb50cfe31395c5a8b2502ba32067cd69425057"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20203 Wichita County, Kansas.csv",
+      "sha256": "7f14dadbdb45b025b3d89a5143f8498e08684e963eb2147ecb2d3953cf8b68f8"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20205 Wilson County, Kansas.csv",
+      "sha256": "6b82162c96700af3e5fd87737432bc1242cbdf546582e8348f04fe40c0f08635"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20207 Woodson County, Kansas.csv",
+      "sha256": "a36dece807ec65da09789790919d89bbeddafee6fc26ce8b6c92bf444d295947"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 20209 Wyandotte County, Kansas.csv",
+      "sha256": "3acdbe8b7c277eb2dfd7fc963d053d007725370d67b1a12c2ae13befdc738174"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29000 Missouri -- Statewide.csv",
+      "sha256": "92c55012652149b3c6cd2d536744a00ed35f7c73c446cc5ec7412104d578fc9d"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29001 Adair County, Missouri.csv",
+      "sha256": "76cd1e52bfd5d1b25742fc1b0136e58f1ceb7dbfdd6f24015c397cf7f42cda58"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29003 Andrew County, Missouri.csv",
+      "sha256": "55c424c7a80965406b0e4a02ef91166d2bb82c94c4b3d80b333430f1ee6cd746"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29005 Atchison County, Missouri.csv",
+      "sha256": "e95dd3ce3e52523d9e481fbe9b0d98748831992ac820c7b2ad079dae1e9f01f2"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29007 Audrain County, Missouri.csv",
+      "sha256": "c2cdef1f94f11160bd75ee746c45b1ba4261f670f848d2e13310816066780501"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29009 Barry County, Missouri.csv",
+      "sha256": "c6de99fc1b91d7c2a941c25c1bab13954136e8ed5c919cd88a11bcbc57f97bd5"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29011 Barton County, Missouri.csv",
+      "sha256": "5d9ccd474995ac72f85a711179e53ae8c7187c5e0be4f3ecfde1ff68362477ed"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29013 Bates County, Missouri.csv",
+      "sha256": "f46fef66512c18668b8b7fb004fb448feb84a0e7676c8a3b8dfd616062bb14b8"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29015 Benton County, Missouri.csv",
+      "sha256": "59d4db37d633a5d61a7f4708c719b84e6ba39f7d06c2c6da9dee32c5f7cf7038"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29017 Bollinger County, Missouri.csv",
+      "sha256": "cba5baa38e7d617a2355e38298f16d405b06e58c611aa0d5278ea336408fc8eb"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29019 Boone County, Missouri.csv",
+      "sha256": "52c316516dbc553217195184aadb6840d3eec4ea63fd13027f89cfa5a4e38ca5"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29021 Buchanan County, Missouri.csv",
+      "sha256": "61872c03044058ba7665f92d1b5e9712dc1a37cd53a20dea429f347c3ae31b29"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29023 Butler County, Missouri.csv",
+      "sha256": "976197bae9de2c0c8aac2ab883e1410bab6239bb2a8b5ec73168d5ce5b530c39"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29025 Caldwell County, Missouri.csv",
+      "sha256": "76e545a9829bfa91180692447e5cba7590478c269bc2cf7204ea347dc5f285a6"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29027 Callaway County, Missouri.csv",
+      "sha256": "297c7252feae43528139241a61344e68f52a259b596380549875dc695bdaf9d0"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29029 Camden County, Missouri.csv",
+      "sha256": "a26f4fe4e0285fe7c6a6d15ed5c6a5693f99bdebfbb7281c481e386ef5f4aed5"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29031 Cape Girardeau County, Missouri.csv",
+      "sha256": "3727287c0dfaa5cb9802a9a670047b5f3d7b9e0c95386ff5d6abf21c72c19802"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29033 Carroll County, Missouri.csv",
+      "sha256": "9936b9c1db1615059297b2a99737c1d6c18fdcf58c69813584c4ace7d6dbb8bb"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29035 Carter County, Missouri.csv",
+      "sha256": "8234744f332f79c643d12dbac66ef1fbe70bad7ac6005e912b0b56bdf43f2a12"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29037 Cass County, Missouri.csv",
+      "sha256": "bbaa3c24a030155aed2179009223d3cbeb557febb09977f6d48ce6174920aeff"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29039 Cedar County, Missouri.csv",
+      "sha256": "8bebb2eaee46f72332d2745459b3ebd676a6f186ce397b08a66160ec551de629"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29041 Chariton County, Missouri.csv",
+      "sha256": "b37bfc536fe448975f45387ad343d366e051a7f476a71526dd5b75bcf885767b"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29043 Christian County, Missouri.csv",
+      "sha256": "6ae7e249f790ed936319afcbe7e50c3e7fd4c6ef6eb433bd6e834af5b881712a"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29045 Clark County, Missouri.csv",
+      "sha256": "7c25e2aa2e37811401ccbc9bb7b41cf29a4f91b2b21392d94b6c67d9da5c74aa"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29047 Clay County, Missouri.csv",
+      "sha256": "e2ff3160895cfbad15c6ec8735c104d3a4edf09da55f7d18e5000e4899d2d81b"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29049 Clinton County, Missouri.csv",
+      "sha256": "52c5c52558330a1fc9a3297a070b8c13abe63f848bb90bf27cf4cb63c951d84a"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29051 Cole County, Missouri.csv",
+      "sha256": "3c78d50ea25a0211fcf6d52405166b94305dd77b6c98858cfc87b239607cde5d"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29053 Cooper County, Missouri.csv",
+      "sha256": "10fc694bbb3a169b6db52c1c63da0f737d2a33c01d71f84e289b9dd9f1fc71f7"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29055 Crawford County, Missouri.csv",
+      "sha256": "8a3e440ea36c1b73d35df4d436f34be26901df3d3128fb75c611512dd1e99a86"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29057 Dade County, Missouri.csv",
+      "sha256": "2bef67feeacf537c183001d5b51b189798ac59e11ec454c17ab542636d816d70"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29059 Dallas County, Missouri.csv",
+      "sha256": "46f8c510706da90def8c6f9c1c6e5ce803e7f49772006c12a63f6878a7ab3c67"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29061 Daviess County, Missouri.csv",
+      "sha256": "822926687617bdab10807e92776225ab71bd167a789374aa1e89cda5e11731d6"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29063 DeKalb County, Missouri.csv",
+      "sha256": "760ce604167f3b6d33efd97c787bcd35957b8a91c729bf1c4e904f622d901614"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29065 Dent County, Missouri.csv",
+      "sha256": "0962fd3f3f2dbc5800fed7dde97782c5fa6bfa33ea31626a8cd6a56e12467a8e"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29067 Douglas County, Missouri.csv",
+      "sha256": "3509236d3242c29787e8a3c0fe8db50843c3d8396e9e022de7e235c21f6d8394"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29069 Dunklin County, Missouri.csv",
+      "sha256": "3be10a1c75712988ab517f6c38e8cd0a9ff96577385fa16821ef050e3d8c537f"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29071 Franklin County, Missouri.csv",
+      "sha256": "181577829d3b2e1c70bb40998b5dbe490ae054ab54f296b20d46cdb365709f01"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29073 Gasconade County, Missouri.csv",
+      "sha256": "39cbd98b64553037c5ae3f14400a4d84a94e7a4dc0b0ff42517fb3931176760a"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29075 Gentry County, Missouri.csv",
+      "sha256": "8a796eaa5928d14111c039ca258658ba3adee97f7e75fc3e5f94d31529869809"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29077 Greene County, Missouri.csv",
+      "sha256": "e39f8389edfbcccf83a0d96c7e3c2661f691a776d26a4434154541ae591df8ca"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29079 Grundy County, Missouri.csv",
+      "sha256": "cac31f960018e039c6aff985b57b7deaacf76f25483a91320d5a612cb23270a1"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29081 Harrison County, Missouri.csv",
+      "sha256": "73d8d9f6ae58b38f4b682f72256a374ffa4cf38d83643cc4016d466f05d60699"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29083 Henry County, Missouri.csv",
+      "sha256": "69f4f6a9977a5e63a56e6b9e1345c51717e700c7cd5d2f0dca7b124387f89e3e"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29085 Hickory County, Missouri.csv",
+      "sha256": "59f5287f0c371293d9062b8f8acbb0cd3fcf1f9113a02f6d4af90addb221f622"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29087 Holt County, Missouri.csv",
+      "sha256": "2acf2ca0e448e44c7d23d8486d313ff1d3b7d6d66557e5881e20d80b733f24c0"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29089 Howard County, Missouri.csv",
+      "sha256": "f591edc919d21c728533bb6ea93467106f2ab904e5bc54670ae1fd95c3dd823b"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29091 Howell County, Missouri.csv",
+      "sha256": "eb3a0663f17d73abb1a37930ab7778c0d87806565484d4496a012b9b516647b1"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29093 Iron County, Missouri.csv",
+      "sha256": "5171c03116a24654657d8e119dcaca8cc437933a0cef0ebac53530fdb3ab76a6"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29095 Jackson County, Missouri.csv",
+      "sha256": "956116a2c38f15e85edbfd433009e9bd87086ce53a014684429b75bd60fbc483"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29097 Jasper County, Missouri.csv",
+      "sha256": "21494eec8b53803bf02b6ef0ee31e498b5a3ebe472bd1d07e5ded97390a1d91c"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29099 Jefferson County, Missouri.csv",
+      "sha256": "d732d3b5327d7fb255736c23fb8337c068fcbcb22d9b10b27f86bb957d6b3537"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29101 Johnson County, Missouri.csv",
+      "sha256": "b995aaf3ca4e2ad4e2ec39cb1b5876f1a87f377c53934e6f4192840709ee9cce"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29103 Knox County, Missouri.csv",
+      "sha256": "b69c0fe307041969c300792bb988bfc20ba1c2c1981d95c6b7f5b7e633067f5f"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29105 Laclede County, Missouri.csv",
+      "sha256": "858b03642fac7135ec3503bc0fbeef2fc790e8c05889697640dc13a7b4a41d8e"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29107 Lafayette County, Missouri.csv",
+      "sha256": "6c4391944937b87bdcb8ce36b02ffe615134ded749a1551e8a31439d4d36eb00"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29109 Lawrence County, Missouri.csv",
+      "sha256": "79152cd0428a21a2f59809870c54b92a9292c3fd792990a8e5815400162cabc6"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29111 Lewis County, Missouri.csv",
+      "sha256": "0a286a5b14e037aed371729b1a7d1781407eb39e40e9423a5ef6298e7d09adda"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29113 Lincoln County, Missouri.csv",
+      "sha256": "d7209f2149ff30b6a75eceba1b350e56e6008184fd2e9b8ae50edf5944a6ca91"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29115 Linn County, Missouri.csv",
+      "sha256": "d4fd465db3c4419c9cc293a24b6f35724a5f9144d8227c0edcbb7571ce077af8"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29117 Livingston County, Missouri.csv",
+      "sha256": "dbb69219e706a690f90549e54b7bc2cabf832f2c1e2b36f76aa1d75870da8311"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29119 McDonald County, Missouri.csv",
+      "sha256": "da08c7e093efcf9bce9b00bca82461e64469a79b383018fc5fb80e3253599392"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29121 Macon County, Missouri.csv",
+      "sha256": "e1518b3e641f68d639c44b6af00980f2ba74a4dd54a1a52305ab7b955dc99fb6"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29123 Madison County, Missouri.csv",
+      "sha256": "55cbb3006db65dcd6cb46a162fb176a5e9b68c987969346543b95a642bfb5ce4"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29125 Maries County, Missouri.csv",
+      "sha256": "edc75d413ce0ecbf71a004628d8e44eb97707a72a436b244fe9e5673ede1176b"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29127 Marion County, Missouri.csv",
+      "sha256": "2666ca160adca87f1207585bc9ea2b80d5010031215e0a3f805ed42e3223caeb"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29129 Mercer County, Missouri.csv",
+      "sha256": "6b577785aea52665524724679057834360755ce42faa75d7a276973d5e5f238e"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29131 Miller County, Missouri.csv",
+      "sha256": "b0d61dd1d13834654a21d315bb5e3342e3cb67b879a2191fe693b6eba2ae6cf0"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29133 Mississippi County, Missouri.csv",
+      "sha256": "0dd63cf5c28376d6f8380a46ad6743ed2312a66374370d8a147dda731217593a"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29135 Moniteau County, Missouri.csv",
+      "sha256": "921aafa9bff929e40ff7040e1bf279fcc25e8f3341040bfa2eda32a6b6380afe"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29137 Monroe County, Missouri.csv",
+      "sha256": "c3462e93f604981175d541137f01a42f5e58d20bba1f7694dbaaf02c90b76eda"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29139 Montgomery County, Missouri.csv",
+      "sha256": "fcc4d1a3f32f02b9a6bf082b9e81803f3bf0e2c38d7815d2e2d3ff36e3669ffb"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29141 Morgan County, Missouri.csv",
+      "sha256": "00e2d85c1d96a34cbab1a3ac0fa3c45e7be7e2a66d11b49662190695142c7f7b"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29143 New Madrid County, Missouri.csv",
+      "sha256": "555609d8b65743de1aec3cb87953482a7b736ac9fac2da8d1f706bbbeed560c4"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29145 Newton County, Missouri.csv",
+      "sha256": "06c851b5649a285f5fcb4a6f2994123580f350a2a67f0c5247e8f86d76f37d92"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29147 Nodaway County, Missouri.csv",
+      "sha256": "978761555f3a0f3eefdec5c3ce553197fd2a490a9d6f9f323f6a673a4c0ed226"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29149 Oregon County, Missouri.csv",
+      "sha256": "57d129967051ef382ee7e40ff1ac229428d034f4c7d7c188a0c5f89765cc7f33"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29151 Osage County, Missouri.csv",
+      "sha256": "10b012dc88ffc46fd19bc96a39b6b0e0b36a1cfa3ed45ae828454a7ba8307ad3"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29153 Ozark County, Missouri.csv",
+      "sha256": "1d0ac26c96fab8536c6dc4800695a2d32ebbfd3ff11f4ac70bb71969eeacc625"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29155 Pemiscot County, Missouri.csv",
+      "sha256": "a9e9af81042ccbf4fefa1adcea0ed78855fa8dc155a5f5e039c20e6af69a3468"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29157 Perry County, Missouri.csv",
+      "sha256": "457a8f16e6818e13e51251bbe4f1753a6f33f5c8e36cd652002035e6f4e49c28"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29159 Pettis County, Missouri.csv",
+      "sha256": "fe09bf354dd24e54be9ba15e7bb149e88ec7ba9be447b6b36fcdbb0ad01b68a0"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29161 Phelps County, Missouri.csv",
+      "sha256": "a494fe1f07214a20c6eac78adee24093560d7697ccf773decb77f9dbced97984"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29163 Pike County, Missouri.csv",
+      "sha256": "bbd92e86bdb2a495f122fb8d4a08f4c70c82ea5e44a38f0fe852530e6d0bd235"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29165 Platte County, Missouri.csv",
+      "sha256": "1c3322787279b71a9ca75248b0419a36d9c3e39a978451b3e0da14a367f737a3"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29167 Polk County, Missouri.csv",
+      "sha256": "128a4d259a22d2eb03115b188fc01cdac4c263f4896a97e843aad5faf94f865a"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29169 Pulaski County, Missouri.csv",
+      "sha256": "89cad4e61ce7d7c18236f8d7f94fb8f7a56371bf7b52811985de63d53587c895"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29171 Putnam County, Missouri.csv",
+      "sha256": "2fef6d614d60b274d535193c97e58c86d585ecc0bfd9f7604fd6ea93be85b8db"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29173 Ralls County, Missouri.csv",
+      "sha256": "f266c588d06775127f073c828cba41deaf7945845f5ae6c87f5b0813e9636634"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29175 Randolph County, Missouri.csv",
+      "sha256": "e25d9f8a8cb67ba9c12608209e92b1c60901a70563c742f7544aaf4bd61f8ecf"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29177 Ray County, Missouri.csv",
+      "sha256": "2cfd20a92f487e318eea14ecbf3e7d4e083b18ded1405ae35621b7059834c421"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29179 Reynolds County, Missouri.csv",
+      "sha256": "2ef5dfb0f6193bd8c706fd5b31eb520e88e9fde897a90245b38fee83de77c46e"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29181 Ripley County, Missouri.csv",
+      "sha256": "2c3f78c92b5e4e391966d5ec394dbc43362329ab45dceddff1d80e3f88f9a335"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29183 St. Charles County, Missouri.csv",
+      "sha256": "91cbe8357f78b073543ab93f891ab7cad4ad6842cbb7b883f67f66b37604709d"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29185 St. Clair County, Missouri.csv",
+      "sha256": "64f98f24c4620e631fbe8ca110ac332e84d78a44a3402148a2712e08726a6be6"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29186 Ste. Genevieve County, Missouri.csv",
+      "sha256": "1e57c5eb4d2bae39e5bdcd296d7520c611aedcc934756e3aec7431203a92ca4a"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29187 St. Francois County, Missouri.csv",
+      "sha256": "3d27ec6bc9ca87c2ee9fdbb636b5a2867490f0dadfa088c926720a2b8e337b25"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29189 St. Louis County, Missouri.csv",
+      "sha256": "948c0b49ee5e5001885da77ff7b5504339e977132175f52dfc125ab537a51772"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29195 Saline County, Missouri.csv",
+      "sha256": "aecb9c529d024d21bbecbe7dac283f30a449f7cf65a9d268b38d9ec24ece450b"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29197 Schuyler County, Missouri.csv",
+      "sha256": "c5ff657326e5fcc93a4a2464efd153f4ef1bf6144e91379b656119ba0d0bff1d"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29199 Scotland County, Missouri.csv",
+      "sha256": "819ba8b8e8c37cbf3992f11eb8b9425d00de806e024c6e10657bcb67b8a09f7e"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29201 Scott County, Missouri.csv",
+      "sha256": "ca10b9040fdc9d230b2019260e9630d3e557cade6e6cac748b641fb13c54d39f"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29203 Shannon County, Missouri.csv",
+      "sha256": "bd129243cf1e096c170930531252074e055c1eca967268b3afdc68c10f18db25"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29205 Shelby County, Missouri.csv",
+      "sha256": "132c811fd8e9c33c0f2528a5106dfc75decd7ba8c47f025fbc32a87984ffdb08"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29207 Stoddard County, Missouri.csv",
+      "sha256": "e52993dd82de5134f19ee3767ea6ee253c01697357ed4ef1d85d5e009c85fadc"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29209 Stone County, Missouri.csv",
+      "sha256": "f9bb644f4584894f0a8085d0020425630607731b3107383bc5b09da9d0f4193a"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29211 Sullivan County, Missouri.csv",
+      "sha256": "b76b2afc0094eaf96237bac85d573ebb04675c0ff187c4efff74d772cf26abe8"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29213 Taney County, Missouri.csv",
+      "sha256": "5e2eea19c30788d025bdde1e127b6f18a226a06423bb46b7f48f2b47a58295fd"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29215 Texas County, Missouri.csv",
+      "sha256": "6b39fafbd5ed2c00b4c77a9d5c30ecc907834087bce9dd9b345145a9c974eb51"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29217 Vernon County, Missouri.csv",
+      "sha256": "2be0fadbdf4e34c360a9698587abf23d3c7b977f97b5282e83bb23897a746d22"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29219 Warren County, Missouri.csv",
+      "sha256": "2c6d5b6dcc25ac24a6371d3b81662281ddcdee489d482eaee4f9c0be3eac86f8"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29221 Washington County, Missouri.csv",
+      "sha256": "4e3f0dbe5f27abfd59a8af0afa5ab778391ba6e210dca9fb67bf719416f59cf0"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29223 Wayne County, Missouri.csv",
+      "sha256": "1ef6a0f5e979a1893234f98428096c6c2add3786a7fb0786dc3aeae8816d7271"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29225 Webster County, Missouri.csv",
+      "sha256": "d76ade8438e89803b68744d1b05330f2c922feb407fe21e928c0fa143cd787df"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29227 Worth County, Missouri.csv",
+      "sha256": "29356af92b7f2744c92e79a52ecd2585cf206652a71fafcc3efce9986a719f03"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29229 Wright County, Missouri.csv",
+      "sha256": "33c7a2a0969ba760a7167e89ad7267b0f3bc2292e689c810b112fc5daa42b613"
+    },
+    {
+      "path": "data/raw/qcew/2025/ByArea/2025.q1-q4 29510 St. Louis City, Missouri.csv",
+      "sha256": "83aa450920de7c23d45ae52594ddc9b579d0f4e9b1c8f4e99388016e2ecac613"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20000 Kansas -- Statewide.csv",
+      "sha256": "4f228e81cbf0cbd8dbc7025d40197a3a39b80c896f6c30061d01a02203f64db3"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20001 Allen County, Kansas.csv",
+      "sha256": "cadb5e86e2e64f6ded974facccc04d96d7f8ad3252ee38492d91a63b6cad8526"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20003 Anderson County, Kansas.csv",
+      "sha256": "b8037847201f52d2517435540c197ec2eac0cde0d99f8ce7f0ca20a40376132d"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20005 Atchison County, Kansas.csv",
+      "sha256": "29cf333088c5e3047833d26e7a969a1478111ab4cd5f2ff31a596e0c12d37c9a"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20007 Barber County, Kansas.csv",
+      "sha256": "400b8568595deb48e823b722f847f5e11226976e1e3db5e76e941c6d9a6fa385"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20009 Barton County, Kansas.csv",
+      "sha256": "2c7779e720085e55990d68158fb9201d774db3772efd8433737ca66a227104e5"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20011 Bourbon County, Kansas.csv",
+      "sha256": "3df1074d98a1bc31280b6e24d6e319b86eb2cee53a06d24b11cc6a622ef4bc3b"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20013 Brown County, Kansas.csv",
+      "sha256": "2a8150fda05c0a47d2bd4d001584dbb0e3b181111c1a8ec356ad9024c4331b83"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20015 Butler County, Kansas.csv",
+      "sha256": "30b7935016898e5c56e727947d25567c587bddcca5bf5f5bf6ca44826dd1b744"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20017 Chase County, Kansas.csv",
+      "sha256": "9679aff5d8197dfd5558cdd33ba85b7d14027a3bba3bbfe87460e224820d4681"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20019 Chautauqua County, Kansas.csv",
+      "sha256": "31844238d60a7aa291c524f7e95634bab7d726f6f9b0fa9adaf33702e8811721"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20021 Cherokee County, Kansas.csv",
+      "sha256": "c0e906e37d58389d21314eff0e354119a05259fb63017be1f888971766f838f8"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20023 Cheyenne County, Kansas.csv",
+      "sha256": "c43229a67d6b3e13e83d8072d92ceee8155d47568f110cc7e589bebd7d21ee4a"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20025 Clark County, Kansas.csv",
+      "sha256": "7276285a5f98971f37689489cf4971a86cfd1e33ba314845e303bd06a511db20"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20027 Clay County, Kansas.csv",
+      "sha256": "a483b831ead547b137da2adaee814d6e47d0cfc05d5e6d7a9f52457962406ca1"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20029 Cloud County, Kansas.csv",
+      "sha256": "b601f9e866b119a0e0a9fa43cd4520682d4bfce26c573eb99d1cdf492793c836"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20031 Coffey County, Kansas.csv",
+      "sha256": "0044ebde575a9064214ac26b6420e2cef97fe37218731187e8bee1f1d45ff89c"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20033 Comanche County, Kansas.csv",
+      "sha256": "92067b4cfe7374d96d488ca142ed316f751af4072596429471bcdf166390a26a"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20035 Cowley County, Kansas.csv",
+      "sha256": "6c74a278fd530278b5909222e7b1b1a4361bd0f213dc3a65a0b93fe5de2cc9e1"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20037 Crawford County, Kansas.csv",
+      "sha256": "9fce4eabba8c2f0a41bd623330abcd454da0d33dd995916ff3322dc743ef7535"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20039 Decatur County, Kansas.csv",
+      "sha256": "6d85e429169b2e3b5ac28a89935b07d4351427cc325efc84427fcff5c76e9af5"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20041 Dickinson County, Kansas.csv",
+      "sha256": "2ce2e4594025515a4944a4ba55f1eccd0235a4e420690b9d464bb7bab120fdb2"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20043 Doniphan County, Kansas.csv",
+      "sha256": "e649c95bbef92e3b5ddaded9061c48e1515133e850aad3222aa4489c066e8cb5"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20045 Douglas County, Kansas.csv",
+      "sha256": "b7807bc930051ac7cdd8086b63053bd86182ffa9f5e256701fa041654b075746"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20047 Edwards County, Kansas.csv",
+      "sha256": "85ba58fcefc60087f98674f9f2f99f70739ecaee95d6d2f7714bdf330840a264"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20049 Elk County, Kansas.csv",
+      "sha256": "081a6dafba25b6bca7c7967accf005307383ef720d2abff2f6021463884a6dd5"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20051 Ellis County, Kansas.csv",
+      "sha256": "9e3dac5d7deb72c7b3289d2fe6038775099cef2bf366a0f906f55748f5751f50"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20053 Ellsworth County, Kansas.csv",
+      "sha256": "fe7c9f1cd59a266b607d7742508781081481f790aae18d84badfa80904e401de"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20055 Finney County, Kansas.csv",
+      "sha256": "2e1b839f601169d4295e709c8fa8a80aafe41489882731065277f61b2be0a255"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20057 Ford County, Kansas.csv",
+      "sha256": "33799f8e6132d33712698001afc4d960587d4b75cb13f1ae1e172cd4fb3d9ff8"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20059 Franklin County, Kansas.csv",
+      "sha256": "8b6386523840b455a6f733fa1a18b6f8f67db5180e927f3eee530cb8e32b5924"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20061 Geary County, Kansas.csv",
+      "sha256": "fdea6842684d9d0c31fa14340be927af1fb4bbbadf37c0721c2809c861c9e0b4"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20063 Gove County, Kansas.csv",
+      "sha256": "6d8c42c44210992dceab7e27fff854433b1fded88aa71f8de0b79b1a58632bcb"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20065 Graham County, Kansas.csv",
+      "sha256": "816152e3fbba19b4cf9e71d1a18e60cff2320f3cb99530d45f577ade2125d2ce"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20067 Grant County, Kansas.csv",
+      "sha256": "7f3f60b43efe07bc46a6c830be2399d638ec387a374cbfdfb0147628fbe3bccc"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20069 Gray County, Kansas.csv",
+      "sha256": "05ee106bf13bcbc81a293bbdeaf18b0f73deaef4565ea85233d9f7d7ca889030"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20071 Greeley County, Kansas.csv",
+      "sha256": "4124d08834dee7a84223f04dd92a8c3c492d245d2aa5013e3939b230abd66337"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20073 Greenwood County, Kansas.csv",
+      "sha256": "807240ed5acf899aba4d36038833172bb2f4eb87a5fdf0ca9e6c0c377577ef8f"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20075 Hamilton County, Kansas.csv",
+      "sha256": "34ac927f708e54b9a84275fac80bd87e5d8526f7c59d814664931f463c961d6c"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20077 Harper County, Kansas.csv",
+      "sha256": "a072d472774173a215e30811b22cdb5dd8e799a4d5a7044d9e96594d68415d73"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20079 Harvey County, Kansas.csv",
+      "sha256": "10acad65a8a24275ae10e5fc58f48f5aefd5f01e7036b522ca769e25081235d5"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20081 Haskell County, Kansas.csv",
+      "sha256": "60db9836bce6088751be57222ca647a7deca28dcc16fe007fd8f8c51fd57ecd1"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20083 Hodgeman County, Kansas.csv",
+      "sha256": "adef128f6588e04fffe2ff3bea07f62096e7011a6ce5cc30a7c8f321d04df7fa"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20085 Jackson County, Kansas.csv",
+      "sha256": "25cce7ba30887aef6d3a488c7779de8caffcf2b6f9b54055c8db0d4cae7df829"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20087 Jefferson County, Kansas.csv",
+      "sha256": "9dfc81f75c2b7b093d6124a25ac6c662599281fcd102187e0f6ce9c0240937de"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20089 Jewell County, Kansas.csv",
+      "sha256": "0d781cc765e8300acdadb1633ac5963731a0fc1d05bff69c68be87a21b94a9b6"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20091 Johnson County, Kansas.csv",
+      "sha256": "5dbdb6186a74ad006a8d9b8eb452513b6712e77d1785d49910b244bf790cb959"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20093 Kearny County, Kansas.csv",
+      "sha256": "ff1846344a90a086b2dbcd459e3dd8bb65a596402b3584fbfd66d2bf1c501b2c"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20095 Kingman County, Kansas.csv",
+      "sha256": "2e197ee5200f21bc34f7c195441ad6add0e88c375d618e77a1f1e6e596955fc2"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20097 Kiowa County, Kansas.csv",
+      "sha256": "c78c9f6469f41dcc778a3565b945ba2abf5dfb775968b55da7f9113491b38106"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20099 Labette County, Kansas.csv",
+      "sha256": "a34236d9495598a7463979da7e43b26b18a643b8dee45872ad68de7fe89ac7ef"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20101 Lane County, Kansas.csv",
+      "sha256": "2d3c529e97d55b3c891b9fb77c45a1f2679ed1fef4a272fc5c8fd86b1f12272c"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20103 Leavenworth County, Kansas.csv",
+      "sha256": "c53352e18d53edbf9ac2b3b6593f2d85d7560f0008a580d9db9d03fe4cc21a00"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20105 Lincoln County, Kansas.csv",
+      "sha256": "4e2a4e19cab488141a9f274e8eb35b150351b36d5d9f973e22223c378417e63d"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20107 Linn County, Kansas.csv",
+      "sha256": "87b7e7f175be3c8c20ddedbf266fc174e0089843a457fe7ed23b164c191f1101"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20109 Logan County, Kansas.csv",
+      "sha256": "315652f5767ac7bb621a8aed61165a54a7a1ce681169e1e9a83c6ce247121993"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20111 Lyon County, Kansas.csv",
+      "sha256": "c6456f7c38672d83f181447ef0af91e980378682ccffdcd409cdc84f286f93e6"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20113 McPherson County, Kansas.csv",
+      "sha256": "b2359f92365747c056da0f86b31bdeec0f92b91861043b368773b52901b3b9e8"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20115 Marion County, Kansas.csv",
+      "sha256": "879391a2090771f9d4968f6faeb26b2308ecd5d9de8387ff26348272e6be2576"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20117 Marshall County, Kansas.csv",
+      "sha256": "9b3c7bf43e5433211c284487fb75123066569eb344ae0f0c431289b5de4f0e1c"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20119 Meade County, Kansas.csv",
+      "sha256": "8c12c23799fd1a1ae5d2a39b7873e9a90bf26774465927662728ee70ff83fd6c"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20121 Miami County, Kansas.csv",
+      "sha256": "1c7bba7771ad85bb23d5c3d1cb6e4fd6db342e468e7fe82421570dc7d15606ce"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20123 Mitchell County, Kansas.csv",
+      "sha256": "58f2a06a0b300951fc91d5c799f53591ff6a670b028f8e8e7aaad251b234d3dc"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20125 Montgomery County, Kansas.csv",
+      "sha256": "1982691435476c7ae4de4f0dfce0068d1613b30ceac0db198d889914ac02fe00"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20127 Morris County, Kansas.csv",
+      "sha256": "6afa0f07f77675e0425ce447f3f187362ddd57261109100df67f41c7363af7ee"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20129 Morton County, Kansas.csv",
+      "sha256": "67c4e72a510729bb168fd707f32c10c4c8d017126616290bbdd33953ac46fa12"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20131 Nemaha County, Kansas.csv",
+      "sha256": "c6dfcf0298e5f07cec71fbae81dee4287bff1f535f7d432f7eb5da74f2767468"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20133 Neosho County, Kansas.csv",
+      "sha256": "938ea5c4c3faf399faf5c7b3d7f2535285239d3c32ca807f40f98401108838a7"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20135 Ness County, Kansas.csv",
+      "sha256": "21fb1a04ef3c9c6771fe16fa7bc34cad25220a9abb0d91ce6f4cdc7ec77b19b9"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20137 Norton County, Kansas.csv",
+      "sha256": "df16af49d4284171348064720c4443823adce3fa848fb0b50b1b0b0cba06c819"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20139 Osage County, Kansas.csv",
+      "sha256": "bb75620136eff2b1369610f16b7c270a0cc11f11319a0ebeac2515b1ffad8568"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20141 Osborne County, Kansas.csv",
+      "sha256": "2d14d4e70db96761dab7b8445ea3659a4c8260f28adc34b2141e57127e63ea21"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20143 Ottawa County, Kansas.csv",
+      "sha256": "f56cee9cde67b8e730ad7652ab24bbcb356295028429e1c5ba543a35468b92a5"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20145 Pawnee County, Kansas.csv",
+      "sha256": "dab349ebc55abab7e2574eb6d44df5004083c3725dd444a82f875522daf75cc9"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20147 Phillips County, Kansas.csv",
+      "sha256": "783e3957390624f2b1a08c0d9cd6d55f713516965a2cd76671ca8f40f4ac02c0"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20149 Pottawatomie County, Kansas.csv",
+      "sha256": "b999513d15fd2c8ed9d23290fc2a4eeefc07667153519853d3d88b693ca1ee06"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20151 Pratt County, Kansas.csv",
+      "sha256": "a47788a7a3ced43f0ec991f62b72f41fbf2647c637b1e7dc28842aa998d19908"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20153 Rawlins County, Kansas.csv",
+      "sha256": "498a126cec465aa4f888872d91052612fe64875f0fca30d343eff8fcbfe292dc"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20155 Reno County, Kansas.csv",
+      "sha256": "9cd2b437ba92e0e4b6896bfc2b1c69bcc458efb15463b9dd1883f3f147e308c2"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20157 Republic County, Kansas.csv",
+      "sha256": "fdcd7a7d79368d15b0db3ce563fcf28af907a6928839dd9802390584d1dc660b"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20159 Rice County, Kansas.csv",
+      "sha256": "686e10ae3590f223ddc9e72b5d7672c6bca43299fc4ff992ef4341d098463c23"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20161 Riley County, Kansas.csv",
+      "sha256": "af5e21a0834a3476598aac641f49538b1f24a5a708eaf926a21c94dcc15ba123"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20163 Rooks County, Kansas.csv",
+      "sha256": "ba00d2f5bc80010ddd5c993f66f0ffbb3517255d1789c217ee9d227c0c09f834"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20165 Rush County, Kansas.csv",
+      "sha256": "a93a63b5f0446074c7ef97fbc6a8b5b83d1914d014d66865e40d4d5f437273fb"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20167 Russell County, Kansas.csv",
+      "sha256": "72dc7679ec3e772de8f521a09f5a9c51a9175c19d48ea04f3933bc6419cef2dd"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20169 Saline County, Kansas.csv",
+      "sha256": "bf45fc41a57fea396c71e4bbcacb040551fb1d132e3ed658ef92a6c539d16c25"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20171 Scott County, Kansas.csv",
+      "sha256": "978f8f688d300450f858c5481d4917b4dcd2647d992150a0cc07a229e75fee85"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20173 Sedgwick County, Kansas.csv",
+      "sha256": "5fc8280d7d5fe4d9783ba4de192959cd71e74a656a239eefc6394b5c842839e1"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20175 Seward County, Kansas.csv",
+      "sha256": "2eb06087e34eb730cbecfaa902047443dd5a8bde7b178929b1ce7ca0a5cc5cdd"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20177 Shawnee County, Kansas.csv",
+      "sha256": "4c5ee33aa9a284411e567590a836d8bf76996c474e863ee2bfb509e9413ac5d6"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20179 Sheridan County, Kansas.csv",
+      "sha256": "923145955a2b135d95c086715369594a0488994a2344f5033e94292989266c16"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20181 Sherman County, Kansas.csv",
+      "sha256": "b5038e4c2d5355710c088851991626a760e48299f8629180aa4bc3d035bb0e5d"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20183 Smith County, Kansas.csv",
+      "sha256": "180e4ed71f32b8615f47c38ae4970d59ac5d4f9bc0073329a20f63514e567b75"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20185 Stafford County, Kansas.csv",
+      "sha256": "0844d374584c2703dcdfca85145d3fb4a5653a9aa583042e188ae38c967097af"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20187 Stanton County, Kansas.csv",
+      "sha256": "616214bbfaeda398f3757385fcd95070d727a9bb9851fd89f85c00646c627c8b"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20189 Stevens County, Kansas.csv",
+      "sha256": "49ca0f38225f0fddf316663a896fdbe288d9521a17469436a6b3060cfa6f7cdb"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20191 Sumner County, Kansas.csv",
+      "sha256": "374e65b9f42d9e11a46cdbd4aed49cf505870fa2277a983cf526c2e3181b531b"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20193 Thomas County, Kansas.csv",
+      "sha256": "6dca1578f1030b4ef6f23fc01da6c310d25fc177243bd1d75d21f2e67dd4cc5a"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20195 Trego County, Kansas.csv",
+      "sha256": "8027095251fb3a4ff239fe7ea4350c10a790848074270243b3aab23ec036a0d9"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20197 Wabaunsee County, Kansas.csv",
+      "sha256": "c38f5d8bebb57b952a1d9bc22e050a629af7869a1ec8153906eea6b73d8db8e6"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20199 Wallace County, Kansas.csv",
+      "sha256": "e8589977a7e879b16e7b9091d681ccf20f86342c6787075c1c76750451902ddc"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20201 Washington County, Kansas.csv",
+      "sha256": "7d81f01e706d8b7684dd27c8f30b8c6f98fd6e8b648c441f466c8906f8bb973b"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20203 Wichita County, Kansas.csv",
+      "sha256": "3603a64e948c2ad178f35a07c680e9164e944b305b1946527549fc9bc49d7ff7"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20205 Wilson County, Kansas.csv",
+      "sha256": "4bdb598598b934779f10e273e81dc8fb5197f2e0c7aa689902f1acec2b69bf93"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20207 Woodson County, Kansas.csv",
+      "sha256": "00fc13eac2e29977e10eeffb63d910d20c1be89ac5e5b218e49b9ff7d2721b73"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 20209 Wyandotte County, Kansas.csv",
+      "sha256": "e7ae0bb059e5f50f055ce2b640117b2e80ca52c9bc652461c1c020f03827c0ee"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29000 Missouri -- Statewide.csv",
+      "sha256": "efdd13d4ee48945be6c4bf1abf591352d30e6283240d1924470318ba85b28d0e"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29001 Adair County, Missouri.csv",
+      "sha256": "2e29a5068eb22505c9d74bfe52d5cc4c848ae752b3ae5a723012b789650f2033"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29003 Andrew County, Missouri.csv",
+      "sha256": "7e3c505103bc886634619cca031df3abe657183b4e816b994e3b4dc1d0bdc264"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29005 Atchison County, Missouri.csv",
+      "sha256": "eca6e912bc50bce2349512603e1e03217fd0531754646bd8c581a7b6c4176d1d"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29007 Audrain County, Missouri.csv",
+      "sha256": "5d3e5ad894e81a9f9383f9b4f347726e95d4d7db9290b762477457a233e54ca6"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29009 Barry County, Missouri.csv",
+      "sha256": "fcc1414d484bf6cdc9637ceefa9997ede8dab404195f5c666dd745a16fc6296c"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29011 Barton County, Missouri.csv",
+      "sha256": "3d33ae114c95534526da99e18bca71dd8a681e4ca14d763930e80d4df7736787"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29013 Bates County, Missouri.csv",
+      "sha256": "2c3506e3ded07ad6c770c26ae661ef719f0ee864653936f62340c86cc70fc7b5"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29015 Benton County, Missouri.csv",
+      "sha256": "a6c64c0997bbe4be615444c0363d2587f3e93c0acea66c47af70ab0227aa327d"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29017 Bollinger County, Missouri.csv",
+      "sha256": "46dbc2011ed0f4d32d93f6d9e2666d040cd191d490230e80e7475378eced65d0"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29019 Boone County, Missouri.csv",
+      "sha256": "577e1c6ca084586bbaaa43e79a443c70f08be1f371d74ad26f46e9a92a46a0d0"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29021 Buchanan County, Missouri.csv",
+      "sha256": "3efd15b84e85a202983064f8e72696983bf5fed680a7ef201d87fe09ac734561"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29023 Butler County, Missouri.csv",
+      "sha256": "b87977663ca7f35dcaaf0ef6a0b24b13b2fa9af855a09936017906a209fae78d"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29025 Caldwell County, Missouri.csv",
+      "sha256": "99e33627edeba1f79358f81fc3113d295848b00642d398501209d82ceab8151d"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29027 Callaway County, Missouri.csv",
+      "sha256": "0e1f8c1bb3363dd612cac29ed881eb12c1ab87184cf2b67f9b66c579a9bb7faf"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29029 Camden County, Missouri.csv",
+      "sha256": "3844ed9139549e4916bd9978d037f1c0ea8be7f42351f7c29a60d303e3ff9942"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29031 Cape Girardeau County, Missouri.csv",
+      "sha256": "f002e762d380f0c88115fd9536d737073ecd6894c27dd603bfbf8cf7295cd7d1"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29033 Carroll County, Missouri.csv",
+      "sha256": "ab8b55f85ac26d6178aa41bb9bcb90d21441e89e341c1de3809ecc81c0b6b536"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29035 Carter County, Missouri.csv",
+      "sha256": "0b4327771c9d39e935873c0598f4fa4e3039208842c2cf29bb8e6959febb78d9"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29037 Cass County, Missouri.csv",
+      "sha256": "914de95a53915faa256e5006c440e62ca31077c2b2c8865c0d2989d908eb9863"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29039 Cedar County, Missouri.csv",
+      "sha256": "58dafbbc3199ecf0846ae71f714b139e34d93cd8f0e0b7eaf531d3d6a7c4ec12"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29041 Chariton County, Missouri.csv",
+      "sha256": "1a88198d3aabc0dd9839a4fcb2487926924da53ec9dfd476dd4177ed755687a1"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29043 Christian County, Missouri.csv",
+      "sha256": "9f3c18afb3306d6a89aed76afcd31f0e8d9d6f67b2aa9ea20f0198a7c15c2f2f"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29045 Clark County, Missouri.csv",
+      "sha256": "eae73aa1764db9a396685488aa4c542dc03cbb83ed1ffd44b89dc5f8481b0a39"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29047 Clay County, Missouri.csv",
+      "sha256": "b14738b4d93db17c3b03fe49b83ebbd29cc3be44eb8daae639212a2d533a7175"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29049 Clinton County, Missouri.csv",
+      "sha256": "a39a6a95664ed8065a73b8e36d5186fdf30ce6ac6c7448feb4a280db110f2c6f"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29051 Cole County, Missouri.csv",
+      "sha256": "3f9616a53afe0a4d6d0271437a4925d5b6ce2fad409a9a31da9bf272805506f5"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29053 Cooper County, Missouri.csv",
+      "sha256": "8d981cad08bd19c6c5cd490c1b24e8f2cfba9fb4ca321da53f2b7a9289881131"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29055 Crawford County, Missouri.csv",
+      "sha256": "a4b7f8b8e8fed4d7e0406335afeffd8518c10ec7e0ddb83a003dc2eef20edbbd"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29057 Dade County, Missouri.csv",
+      "sha256": "39d5adbbe004183465df6b981ec3c6903a8b6bdb6ade16a6dd8796e6fb18eec3"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29059 Dallas County, Missouri.csv",
+      "sha256": "600acf2651e94a33e950d174a836f0250839f5f7e61026f2ade6cf6fdcfab7a3"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29061 Daviess County, Missouri.csv",
+      "sha256": "b57fef2e6112812a12e48945bfde8ce1d726675db533839a6f83a449bf68e3d2"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29063 DeKalb County, Missouri.csv",
+      "sha256": "2e775e85d15a87ef0ffefb8febe70c90a01078053b52e2ed976aa4e656420dc3"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29065 Dent County, Missouri.csv",
+      "sha256": "381b0dcc4a9d10437a1ef1967700af65edb08940e7e67ff54aa6e1b494c77b27"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29067 Douglas County, Missouri.csv",
+      "sha256": "c75e3450484d5656f325fd4035f5ae4f1494eda789e97f1229b29a9a61bb04b4"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29069 Dunklin County, Missouri.csv",
+      "sha256": "797c3d90e912452b1d538ade446074c44e8c4556719d1a60b7068549c743ec9c"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29071 Franklin County, Missouri.csv",
+      "sha256": "5ef86d49348809bafbeee8203bb2cf3cda8377da7ec4e77cf008e1c79bc6a440"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29073 Gasconade County, Missouri.csv",
+      "sha256": "e76c5c95d2b06d7158d8c527c3b25187b15e0793aef5dd47bd3f494c211f280d"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29075 Gentry County, Missouri.csv",
+      "sha256": "29df5f62777553f7b2e8ee18e9ff8b03c5821754dbdc6090cc0ec0e4632d562b"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29077 Greene County, Missouri.csv",
+      "sha256": "02b69277f65783b8e7fc7cb617971a4192ce1bc8ddcc21b4aacee3a15ddf953a"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29079 Grundy County, Missouri.csv",
+      "sha256": "5ec30b5f8d7905bca68ac604c1b948a35f259bf3e4904917083606d5c2f2272d"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29081 Harrison County, Missouri.csv",
+      "sha256": "edde2118d6567da87a5bfacf96cc63fcf23cb8670fedeb28b9a57f49ac281fe0"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29083 Henry County, Missouri.csv",
+      "sha256": "ce4a0527a0bf6e83ca1a950d672aa477587e77b5dece419902fda2e3f57c434f"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29085 Hickory County, Missouri.csv",
+      "sha256": "f2198d517083c7d14ec0fd1a59549492b147a6f708e4ed60159336f8fbf34b74"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29087 Holt County, Missouri.csv",
+      "sha256": "3a820c1292ba4d4c17220751c49e8f8a6eaaabe9b66ac00a1bb61794a3e77283"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29089 Howard County, Missouri.csv",
+      "sha256": "ac959bb9d8a27469305e19f2a94f4e67dee42f0db42792b891acb5fdac941722"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29091 Howell County, Missouri.csv",
+      "sha256": "258b3ddbb31e3cad631432607f8a7baf4fcd47bad500ebbe2b292d4d0990a83a"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29093 Iron County, Missouri.csv",
+      "sha256": "8619ed9c5e8db318c492e9b3c9a0239a9461d536b81ffab8bbf6fe3f389d0e25"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29095 Jackson County, Missouri.csv",
+      "sha256": "49b13bfa8c2960124186605fc95a6847b0aab4622737deb9162414541781b3ec"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29097 Jasper County, Missouri.csv",
+      "sha256": "6c4254b23cbf6e03570cf23ebe6a3e463658f75c97d9c203bf7e9f40e2688be6"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29099 Jefferson County, Missouri.csv",
+      "sha256": "d4a915504ce2c928d9075e7959d28ffc18d4c76f9d06506d5abb8457aa515c3c"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29101 Johnson County, Missouri.csv",
+      "sha256": "f23f3b3b0a13fdef6ca3db84ac5a199230404882da94d3b4603acd5e58bb32d1"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29103 Knox County, Missouri.csv",
+      "sha256": "08ac99236e463cb23aee5abe55ba0a480ef7b8c849bf95e4bad403570415db65"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29105 Laclede County, Missouri.csv",
+      "sha256": "180d934c92f5b1aa8b35e511b85d3df85e81b080df07f93334128cd60606f1a2"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29107 Lafayette County, Missouri.csv",
+      "sha256": "5f1a0704d03a8f75e8bbdff6d4ecb37337e154e9f3823cead691a58ec6849f88"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29109 Lawrence County, Missouri.csv",
+      "sha256": "278e0cfad0e581f0c25b2f25639993577c20cae1096762737102fd17edeb2973"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29111 Lewis County, Missouri.csv",
+      "sha256": "381a53d8b9d720ab087a35385e6c0f0f4a62cf6b91644134bae9dfb81890dc80"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29113 Lincoln County, Missouri.csv",
+      "sha256": "dd65e0587eb5dbf815ea92d11d513513558ee11cfcb8bcb9e11ba81fc2f334ad"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29115 Linn County, Missouri.csv",
+      "sha256": "0855c87be352d3d262c9ae712ad75382ad0c20b32bf579b0cac347c74e0a20b1"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29117 Livingston County, Missouri.csv",
+      "sha256": "4c3aba9e1e51f18b4cab4f239050ba22f5b24a269a347ee5136f508e9061cc3e"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29119 McDonald County, Missouri.csv",
+      "sha256": "e9c6ee1c8724bb9c3c3289c3b5c2c8e50d3c13d56863da50b7bc5e97f3ec89a2"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29121 Macon County, Missouri.csv",
+      "sha256": "17e3e6b36afa68ca794dcca2ccf7ae27bdbc7ceefa838e0c25cf096d4f555cdf"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29123 Madison County, Missouri.csv",
+      "sha256": "ad2ad8d50b49fc632db41c37a42ee80152c21a9cacc57570063b7cb96209dbac"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29125 Maries County, Missouri.csv",
+      "sha256": "efee2ca36d28197036e26315a1df539696b5258b5cbede950328dcec05227457"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29127 Marion County, Missouri.csv",
+      "sha256": "6bf24150ac685ff888fb233169fc95b3e1e7089a6bfe9fb378263883c33f1c6b"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29129 Mercer County, Missouri.csv",
+      "sha256": "be42ba63947d251900d0b3a17d2f0f09131e02f7604d515f9618e44dea1dd81e"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29131 Miller County, Missouri.csv",
+      "sha256": "55dbde8ecc194edc2e16186e4f2de0e17a75327e8c43f876e01e77e975e32e6a"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29133 Mississippi County, Missouri.csv",
+      "sha256": "792cc52bfc51b1a039ca89874c92106b733c98b4957443e3ce234eb1ee54c942"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29135 Moniteau County, Missouri.csv",
+      "sha256": "3937ec3398a8191d68c77739053d93332bc1c56d86fbd810a7f9866f242074ef"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29137 Monroe County, Missouri.csv",
+      "sha256": "c308ae7dda504c879cab5f21ea95bf0a2ea2961e722b8fcbabad7fb17ecbf21f"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29139 Montgomery County, Missouri.csv",
+      "sha256": "e608cf5bd77e2690b68965592a15336381b4889996697c298f0164d4b3510765"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29141 Morgan County, Missouri.csv",
+      "sha256": "76d52b15a8ea910062d7c0813da71fe6fcf732a5d4b8617ae910d58c9bb007d3"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29143 New Madrid County, Missouri.csv",
+      "sha256": "5a4683d31913b51a481b91cbc351da6c05b4fd1ab755784f5d6a0f654ed702c6"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29145 Newton County, Missouri.csv",
+      "sha256": "3b72f768203bdce2ba7ed169a2a54cbbc7b1b84b03e00fc91f5ed29a902393fb"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29147 Nodaway County, Missouri.csv",
+      "sha256": "090afcce064475e4cb56a81c448af5dbbb5300a3aa931572baea32f5a1281421"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29149 Oregon County, Missouri.csv",
+      "sha256": "3cfa51a15f99eccc593464fecb3b5e48c7749256d77c91402b36d2233c91da3b"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29151 Osage County, Missouri.csv",
+      "sha256": "36b6bfbb623493339fdf1ee8e61dd0ae08f0835a8bcf6e646f36a6daeb716bfa"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29153 Ozark County, Missouri.csv",
+      "sha256": "e435584b1c8b038be50fafd79e03dfbbdeed49af8e108e22575909b828a0f7fd"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29155 Pemiscot County, Missouri.csv",
+      "sha256": "e4e844a3a41d29eeef49302b89f42a2daa73c4b509cbd31bc2d03f91f9bf72b4"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29157 Perry County, Missouri.csv",
+      "sha256": "c9cf5c2322cc9b8630eb30a31acc77bad80e3729eb1a24506aaa0053c1185afe"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29159 Pettis County, Missouri.csv",
+      "sha256": "47efa796715b19faaeda62c3ad3692e81eeef63acb2eef2d5d972bd143941cd5"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29161 Phelps County, Missouri.csv",
+      "sha256": "4cd058dc3ea92073f73adc0e3fc369194e5e1f0bbebe34708d85a1a210f757a5"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29163 Pike County, Missouri.csv",
+      "sha256": "df9e35fca33dc58272bfab50c9d60c95a04df370e4243729615901cb7da2abc9"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29165 Platte County, Missouri.csv",
+      "sha256": "532db043ba9620edb184948448de408e0922aacd94be487907eeff415907abd7"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29167 Polk County, Missouri.csv",
+      "sha256": "fa19cf2e3a353a936c4be19d5d8038cde0807e022d227b51b601cf817b363282"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29169 Pulaski County, Missouri.csv",
+      "sha256": "3315251f0eb2d8033df778b834eecd79e724514e53df4a10ed65cf095b13b636"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29171 Putnam County, Missouri.csv",
+      "sha256": "96f76e9205cd483f97ae13080e31cc0b1d0a13f17febc1fc980c9c28001e77e8"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29173 Ralls County, Missouri.csv",
+      "sha256": "c75821ded3914e522dc869427c6858650326c84afcbfc6b329a2dc731ef8c180"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29175 Randolph County, Missouri.csv",
+      "sha256": "9019c95b9719a376d413076bca96ce8623ecc93a8d2c42c15699d30c3ecfa0c8"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29177 Ray County, Missouri.csv",
+      "sha256": "36c8e30bc504c18cbe8ff06006363e7bf92b03e3cfc5da6b4b9894022f3e4e10"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29179 Reynolds County, Missouri.csv",
+      "sha256": "4a4e83b981c9ab346061b5dd815198827e7971299efac130afb4e6c3ac5d1d57"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29181 Ripley County, Missouri.csv",
+      "sha256": "51ecfd7bf3a6b96629a02bd45ca0c1e063aa41a89fbab25e882f8cfed83c0a6d"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29183 St. Charles County, Missouri.csv",
+      "sha256": "c805c1ea1e7d5df1f32b523e45f1514663ab0e18e97e9db4fab7cae30e18a6fe"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29185 St. Clair County, Missouri.csv",
+      "sha256": "bba4916cc1ee85bfa4292dad0f9ff184224938e0f3210e5a894a56f424efb2b0"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29186 Ste. Genevieve County, Missouri.csv",
+      "sha256": "88e1464ad6964d37b0b29cda141f4200e0dcb75de7e0dbeba87cf3756a7d92a6"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29187 St. Francois County, Missouri.csv",
+      "sha256": "67f521c305168c41ff436cadee7bababd5de9a5682486047277433b2a7fbb7ba"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29189 St. Louis County, Missouri.csv",
+      "sha256": "57dbbd5b77d387768268fc9d7ba8fc00cb1da711cffbc470ee7752974cc29f10"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29195 Saline County, Missouri.csv",
+      "sha256": "2ccded6d9d15d64bdce3a7e18a609ca055c30ace2bda75d9cd881dbefd71615a"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29197 Schuyler County, Missouri.csv",
+      "sha256": "676bd6c381d08cfe8f4b49d4991878bbbfd9923de0f5648db7c74fd7859f7370"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29199 Scotland County, Missouri.csv",
+      "sha256": "d3fb624af30bd3beef186c0f1f337e7783e6f22eb0036dc9ea093859cb9c9f80"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29201 Scott County, Missouri.csv",
+      "sha256": "6d6feca875b63e4370bc88f546ccddb8872295457a971aa70c90f1845af905a9"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29203 Shannon County, Missouri.csv",
+      "sha256": "85bbff8462150081732a0d17052d0d9c9bb48806ef14ebf4f14334aa9a972b61"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29205 Shelby County, Missouri.csv",
+      "sha256": "0597e62978530ef66fa0a544ab3dd81e892d03fcbe3f6a3cadf2fb8a6d6c667b"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29207 Stoddard County, Missouri.csv",
+      "sha256": "ea6c753982f8c6b83443df8f4f926460a27fb35d8985c11af4e7c92239ef1257"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29209 Stone County, Missouri.csv",
+      "sha256": "e4e24c4ca7346fb6456acadc6ea00214706f086a0d9b2a2932c149cc6fe41330"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29211 Sullivan County, Missouri.csv",
+      "sha256": "382836ab7c778d10415522793f9f8d9b6e6efacaa16cb64746519d3989084129"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29213 Taney County, Missouri.csv",
+      "sha256": "0870797a693ba31d9f1343b2519f1b99d6d5ede8485b66b6460b2f1eb0ab8fa4"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29215 Texas County, Missouri.csv",
+      "sha256": "21db3716c3557e2c6c755baa55fc0e49e0a1a5b06384f0d3613a4bd8148393d0"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29217 Vernon County, Missouri.csv",
+      "sha256": "f785bb2d35f581ba20770ff835080c2adb251063d63936b1d2150862fc84e2df"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29219 Warren County, Missouri.csv",
+      "sha256": "d9b42dc7ffcd27fa53c13751ff397a5d41fad6db67df27bc20d1ad26daa54054"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29221 Washington County, Missouri.csv",
+      "sha256": "99cb90475faa7e84758a32b3182dfd42023288076841d38496b0744828b44ea0"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29223 Wayne County, Missouri.csv",
+      "sha256": "67bbdd4564180eef4d61b8d2aaede3a42c50b12ab1bb99c8a57045b49ba580d8"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29225 Webster County, Missouri.csv",
+      "sha256": "782e5a4d3034af1740fd35619f132548a8cf59c5a493ff6e189e790930cc4787"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29227 Worth County, Missouri.csv",
+      "sha256": "3cfc5841458597c765e35c7bbe97af9054000182238dfa3815142a661c2f0f7b"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29229 Wright County, Missouri.csv",
+      "sha256": "6066e4b83733490340189f9ea6956e2552ff16f26a201a76829ee5e86f8796c9"
+    },
+    {
+      "path": "data/raw/qcew/2026/ByArea/2026.q1-q1 29510 St. Louis City, Missouri.csv",
+      "sha256": "a750767186c9e26a3b9cf2b97036d1f02faa2d1891b352c598bda44f5213017b"
     }
   ]
 }
